@@ -1,0 +1,1001 @@
+Mode_of_Transport,Departure_Station,Arrival_Station,Departure_Time,Passenger_Count,Fare_Amount,Trip_Duration_Minutes,Trip_Date,Day_of_Week,Hour,time_of_day,Revenue,Route,Is_Weekend
+FERRY,West End,airport,2024-01-01 06:00:00,21.0,4.343642066244451,26.0,2024-01-01,Monday,6,Morning,91.21648339113347,West End → airport,False
+TRAM,North Station,Downtown,2024-01-01 06:01:00,46.0,20.67338003610532,134.0,2024-01-01,Monday,6,Morning,950.9754816608448,North Station → Downtown,False
+BUS,Central,North Station,2024-01-01 06:02:00,91.0,25.403856477451566,97.5,2024-01-01,Monday,6,Morning,2311.7509394480926,Central → North Station,False
+FERRY,Downtown,Central,2024-01-01 06:03:00,27.0,3.767487284941958,97.5,2024-01-01,Monday,6,Morning,101.72215669343286,Downtown → Central,False
+FERRY,Downtown,Central,2024-01-01 06:04:00,66.0,25.403856477451566,97.5,2024-01-01,Monday,6,Morning,1676.6545275118033,Downtown → Central,False
+FERRY,South Point,South Point,2024-01-01 06:05:00,41.0,5.994405890170085,50.0,2024-01-01,Monday,6,Morning,245.77064149697347,South Point → South Point,False
+BUS,West End,West End,2024-01-01 06:06:00,13.0,40.5076428954565,100.0,2024-01-01,Monday,6,Morning,526.5993576409345,West End → West End,False
+FERRY,Central,South Point,2024-01-01 06:07:00,9.0,25.403856477451566,14.0,2024-01-01,Monday,6,Morning,228.6347082970641,Central → South Point,False
+TRAIN,West End,North Station,2024-01-01 06:08:00,36.0,4.079665525267961,172.0,2024-01-01,Monday,6,Morning,146.8679589096466,West End → North Station,False
+FERRY, Central ,South Point,2024-01-01 06:09:00,86.0,47.77820276093922,132.0,2024-01-01,Monday,6,Morning,4108.925437440773, Central  → South Point,False
+FERRY,South Point,Airport,2024-01-01 06:10:00,90.0,26.36754166716889,156.0,2024-01-01,Monday,6,Morning,2373.0787500452,South Point → Airport,False
+FERRY,South Point,Central,2024-01-01 06:11:00,58.0,15.32850105871676,103.0,2024-01-01,Monday,6,Morning,889.0530614055721,South Point → Central,False
+FERRY,Downtown,Central,2024-01-01 06:12:00,54.0,4.304672726170094,176.0,2024-01-01,Monday,6,Morning,232.45232721318507,Downtown → Central,False
+BUS,West End,Downtown,2024-01-01 06:13:00,12.0,25.28090126948568,116.0,2024-01-01,Monday,6,Morning,303.3708152338281,West End → Downtown,False
+TRAM,Airport,Downtown,2024-01-01 06:14:00,81.0,39.82851945229206,64.0,2024-01-01,Monday,6,Morning,3226.1100756356573,Airport → Downtown,False
+FERRY,Downtown,North Station,2024-01-01 06:15:00,78.0,35.50078062470156,91.0,2024-01-01,Monday,6,Morning,2769.0608887267217,Downtown → North Station,False
+TRAIN,West End,Airport,2024-01-01 06:16:00,14.0,2.986187567466701,149.0,2024-01-01,Monday,6,Morning,41.80662594453381,West End → Airport,False
+BUS,Downtown,West End,2024-01-01 06:17:00,34.0,4.108640850711224,69.0,2024-01-01,Monday,6,Morning,139.69378892418163,Downtown → West End,False
+TRAIN,Airport,South Point,2024-01-01 06:18:00,53.0,20.44222749031554,61.0,2024-01-01,Monday,6,Morning,1083.4380569867235,Airport → South Point,False
+TRAM,North Station,North Station,2024-01-01 06:19:00,20.0,15.11687945537319,110.0,2024-01-01,Monday,6,Morning,302.3375891074638,North Station → North Station,False
+TRAIN,North Station,Downtown,2024-01-01 06:20:00,75.0,12.00302399127437,13.0,2024-01-01,Monday,6,Morning,900.2267993455778,North Station → Downtown,False
+TRAIN,North Station,South Point,2024-01-01 06:21:00,16.0,25.403856477451566,26.0,2024-01-01,Monday,6,Morning,406.46170363922505,North Station → South Point,False
+FERRY,North Station,Downtown,2024-01-01 06:22:00,95.0,40.27239579319579,145.0,2024-01-01,Monday,6,Morning,3825.8776003536,North Station → Downtown,False
+BUS,Central,South Point,2024-01-01 06:23:00,70.0,46.49678865477676,93.0,2024-01-01,Monday,6,Morning,3254.775205834373,Central → South Point,False
+BUS,North Station,West End,2024-01-01 06:24:00,56.0,20.55258337911454,22.0,2024-01-02,Tuesday,6,Morning,1150.9446692304143,North Station → West End,False
+BUS,Airport,North Station,2024-01-01 06:25:00,83.0,45.3524946055586,119.0,2024-01-02,Tuesday,6,Morning,3764.2570522613637,Airport → North Station,False
+TRAM,South Point,South Point,2024-01-01 06:26:00,58.0,16.41403721177016,97.5,2024-01-02,Tuesday,6,Morning,952.0141582826693,South Point → South Point,False
+TRAIN,South Point,Airport,2024-01-01 06:27:00,4.0,24.08363082401769,149.0,2024-01-02,Tuesday,6,Morning,96.33452329607076,South Point → Airport,False
+TRAIN,Central,Central,2024-01-01 06:28:00,48.0,11.68843539189199,147.0,2024-01-02,Tuesday,6,Morning,561.0448988108155,Central → Central,False
+FERRY,North Station,Airport,2024-01-01 06:29:00,20.0,25.403856477451566,110.0,2024-01-02,Tuesday,6,Morning,508.0771295490313,North Station → Airport,False
+TRAM,North Station,Airport,2024-01-01 06:30:00,48.0,48.95956520115304,19.0,2024-01-02,Tuesday,6,Morning,2350.0591296553457,North Station → Airport,False
+BUS,North Station,Central,2024-01-01 06:31:00,24.0,30.37290825414724,67.0,2024-01-02,Tuesday,6,Morning,728.9497980995338,North Station → Central,False
+BUS,Downtown,Airport,2024-01-01 06:32:00,48.0,25.403856477451566,171.0,2024-01-02,Tuesday,6,Morning,1219.385110917675,Downtown → Airport,False
+FERRY,West End,South Point,2024-01-01 06:33:00,26.0,32.56696357653115,17.0,2024-01-02,Tuesday,6,Morning,846.74105298981,West End → South Point,False
+FERRY,Downtown,South Point,2024-01-01 06:34:00,37.0,25.403856477451566,85.0,2024-01-02,Tuesday,6,Morning,939.9426896657079,Downtown → South Point,False
+FERRY, Central ,South Point,2024-01-01 06:35:00,85.0,44.48862447313724,36.0,2024-01-02,Tuesday,6,Morning,3781.5330802166654, Central  → South Point,False
+TRAIN,North Station,Central,2024-01-01 06:36:00,54.0,25.4026555636019,141.0,2024-01-02,Tuesday,6,Morning,1371.7434004345025,North Station → Central,False
+TRAM,North Station,Airport,2024-01-01 06:37:00,21.0,22.74281223096228,44.0,2024-01-02,Tuesday,6,Morning,477.5990568502079,North Station → Airport,False
+TRAM,Downtown,Central,2024-01-01 06:38:00,74.0,29.5003070284492,152.0,2024-01-02,Tuesday,6,Morning,2183.0227201052408,Downtown → Central,False
+FERRY,Downtown,South Point,2024-01-01 06:39:00,38.0,31.42680120807542,97.5,2024-01-02,Tuesday,6,Morning,1194.218445906866,Downtown → South Point,False
+TRAIN,West End,Airport,2024-01-01 06:40:00,46.0,25.403856477451566,81.0,2024-01-02,Tuesday,6,Morning,1168.577397962772,West End → Airport,False
+TRAIN,South Point,Airport,2024-01-01 06:41:00,4.0,34.28955245055842,80.0,2024-01-02,Tuesday,6,Morning,137.15820980223367,South Point → Airport,False
+FERRY,West End,Downtown,2024-01-01 06:42:00,60.0,12.47561817561872,176.0,2024-01-02,Tuesday,6,Morning,748.5370905371233,West End → Downtown,False
+TRAIN,Downtown,Downtown,2024-01-01 06:43:00,57.0,35.8406553090762,42.0,2024-01-02,Tuesday,6,Morning,2042.9173526173433,Downtown → Downtown,False
+FERRY,Airport,West End,2024-01-01 06:44:00,45.0,41.21547232201774,75.0,2024-01-02,Tuesday,6,Morning,1854.6962544907983,Airport → West End,False
+FERRY,Downtown,North Station,2024-01-01 06:45:00,20.0,40.29594612384975,52.0,2024-01-02,Tuesday,6,Morning,805.918922476995,Downtown → North Station,False
+FERRY,Airport,Downtown,2024-01-01 06:46:00,17.0,27.84879788669051,22.0,2024-01-02,Tuesday,6,Morning,473.4295640737387,Airport → Downtown,False
+TRAM,Central,Central,2024-01-01 06:47:00,71.0,26.24840966938218,148.0,2024-01-02,Tuesday,6,Morning,1863.637086526135,Central → Central,False
+BUS,Downtown,Downtown,2024-01-01 06:48:00,4.0,7.57236008630088,43.0,2024-01-03,Wednesday,6,Morning,30.28944034520352,Downtown → Downtown,False
+FERRY,Central,West End,2024-01-01 06:49:00,48.0,38.87963444495522,93.0,2024-01-03,Wednesday,6,Morning,1866.2224533578506,Central → West End,False
+BUS,South Point,Airport,2024-01-01 06:50:00,14.0,13.93476433211236,66.0,2024-01-03,Wednesday,6,Morning,195.08670064957303,South Point → Airport,False
+FERRY,West End,West End,2024-01-01 06:51:00,3.0,25.08642342948835,145.0,2024-01-03,Wednesday,6,Morning,75.25927028846505,West End → West End,False
+FERRY,Airport,Airport,2024-01-01 06:52:00,88.0,14.57156759991208,113.0,2024-01-03,Wednesday,6,Morning,1282.297948792263,Airport → Airport,False
+BUS,West End,Airport,2024-01-01 06:53:00,80.0,25.403856477451566,85.0,2024-01-03,Wednesday,6,Morning,2032.3085181961253,West End → Airport,False
+BUS,Central,North Station,2024-01-01 06:54:00,58.0,31.66310599614096,97.5,2024-01-03,Wednesday,6,Morning,1836.4601477761757,Central → North Station,False
+FERRY,Airport,Downtown,2024-01-01 06:55:00,55.0,3.18943572373374,81.0,2024-01-03,Wednesday,6,Morning,175.4189648053557,Airport → Downtown,False
+TRAIN,West End,Central,2024-01-01 06:56:00,4.0,37.5579390892469,94.0,2024-01-03,Wednesday,6,Morning,150.2317563569876,West End → Central,False
+TRAM,Downtown,Central,2024-01-01 06:57:00,24.0,16.22054636542527,18.0,2024-01-03,Wednesday,6,Morning,389.2931127702065,Downtown → Central,False
+BUS,North Station,South Point,2024-01-01 06:58:00,34.0,0.5066673037220233,99.0,2024-01-03,Wednesday,6,Morning,17.226688326548793,North Station → South Point,False
+TRAM,Central,Airport,2024-01-01 06:59:00,30.0,25.80089239224288,58.0,2024-01-03,Wednesday,6,Morning,774.0267717672864,Central → Airport,False
+TRAIN,West End,Central,2024-01-01 07:00:00,82.0,25.403856477451566,136.0,2024-01-03,Wednesday,7,Morning,2083.1162311510284,West End → Central,False
+TRAIN,Central,North Station,2024-01-01 07:01:00,19.0,14.17039311213452,43.0,2024-01-03,Wednesday,7,Morning,269.23746913055584,Central → North Station,False
+TRAIN,Central,airport,2024-01-01 07:02:00,31.0,35.49533612905795,76.0,2024-01-03,Wednesday,7,Morning,1100.3554200007964,Central → airport,False
+BUS,Airport,North Station,2024-01-01 07:03:00,48.0,3.60313627028236,29.0,2024-01-03,Wednesday,7,Morning,172.9505409735533,Airport → North Station,False
+FERRY,Airport,Central,2024-01-01 07:04:00,48.0,42.04725537162211,81.0,2024-01-03,Wednesday,7,Morning,2018.2682578378613,Airport → Central,False
+BUS, Central ,Central,2024-01-01 07:05:00,19.0,0.6890861715998639,164.0,2024-01-03,Wednesday,7,Morning,13.092637260397414, Central  → Central,False
+TRAIN,Downtown,South Point,2024-01-01 07:06:00,49.0,12.71778152549416,170.0,2024-01-03,Wednesday,7,Morning,623.1712947492139,Downtown → South Point,False
+TRAM,Central,Central,2024-01-01 07:07:00,63.0,37.17475077952754,124.0,2024-01-03,Wednesday,7,Morning,2342.009299110235,Central → Central,False
+TRAM,West End,Airport,2024-01-01 07:08:00,83.0,16.15537241160069,57.0,2024-01-03,Wednesday,7,Morning,1340.8959101628573,West End → Airport,False
+FERRY,South Point,Airport,2024-01-01 07:09:00,22.0,5.54367320926767,160.0,2024-01-03,Wednesday,7,Morning,121.96081060388875,South Point → Airport,False
+TRAM,Central,Airport,2024-01-01 07:10:00,24.0,18.33157898062118,135.0,2024-01-03,Wednesday,7,Morning,439.95789553490835,Central → Airport,False
+FERRY,Central,South Point,2024-01-01 07:11:00,76.0,13.88446767603401,154.0,2024-01-03,Wednesday,7,Morning,1055.2195433785848,Central → South Point,False
+TRAM,North Station,airport,2024-01-01 07:12:00,30.0,42.21423915694747,100.0,2024-01-04,Thursday,7,Morning,1266.4271747084242,North Station → airport,False
+BUS,Downtown,Central,2024-01-01 07:13:00,58.0,16.01072192046458,170.0,2024-01-04,Thursday,7,Morning,928.6218713869456,Downtown → Central,False
+BUS,South Point,West End,2024-01-01 07:14:00,31.0,39.55215735291236,76.0,2024-01-04,Thursday,7,Morning,1226.116877940283,South Point → West End,False
+FERRY,Airport,West End,2024-01-01 07:15:00,64.0,44.64767116813137,97.5,2024-01-04,Thursday,7,Morning,2857.4509547604075,Airport → West End,False
+TRAIN,Airport,South Point,2024-01-01 07:16:00,19.0,21.97396226903821,10.0,2024-01-04,Thursday,7,Morning,417.505283111726,Airport → South Point,False
+BUS,West End,Central,2024-01-01 07:17:00,48.0,45.5421856207924,36.0,2024-01-04,Thursday,7,Morning,2186.0249097980354,West End → Central,False
+TRAM,South Point,West End,2024-01-01 07:18:00,45.0,19.17724367117805,103.0,2024-01-04,Thursday,7,Morning,862.9759652030123,South Point → West End,False
+TRAIN,Airport,airport,2024-01-01 07:19:00,94.0,48.22188161626035,142.0,2024-01-04,Thursday,7,Morning,4532.856871928473,Airport → airport,False
+TRAM,West End,Central,2024-01-01 07:20:00,55.0,4.91983146401586,135.0,2024-01-04,Thursday,7,Morning,270.5907305208723,West End → Central,False
+TRAIN,Downtown,Central,2024-01-01 07:21:00,55.0,34.50745369191051,80.0,2024-01-04,Thursday,7,Morning,1897.9099530550782,Downtown → Central,False
+TRAIN, Central ,Downtown,2024-01-01 07:22:00,48.0,24.94379500261797,63.0,2024-01-04,Thursday,7,Morning,1197.3021601256626, Central  → Downtown,False
+TRAIN,Airport,Airport,2024-01-01 07:23:00,18.0,19.68861587005453,35.0,2024-01-04,Thursday,7,Morning,354.3950856609815,Airport → Airport,False
+TRAIN,North Station,Central,2024-01-01 07:24:00,63.0,31.81923799805574,97.0,2024-01-04,Thursday,7,Morning,2004.6119938775116,North Station → Central,False
+TRAIN,North Station,Downtown,2024-01-01 07:25:00,92.0,35.34092603589939,73.0,2024-01-04,Thursday,7,Morning,3251.3651953027443,North Station → Downtown,False
+TRAM,North Station,South Point,2024-01-01 07:26:00,47.0,0.7159818476902998,56.0,2024-01-04,Thursday,7,Morning,33.65114684144409,North Station → South Point,False
+TRAIN,Airport,West End,2024-01-01 07:27:00,75.0,8.764177892986337,93.0,2024-01-04,Thursday,7,Morning,657.3133419739753,Airport → West End,False
+BUS,North Station,Airport,2024-01-01 07:28:00,48.0,35.79577950639877,131.0,2024-01-04,Thursday,7,Morning,1718.197416307141,North Station → Airport,False
+FERRY,South Point,West End,2024-01-01 07:29:00,45.0,33.48607797212122,173.0,2024-01-04,Thursday,7,Morning,1506.873508745455,South Point → West End,False
+TRAIN,Downtown,Airport,2024-01-01 07:30:00,48.0,48.31935150386952,35.0,2024-01-04,Thursday,7,Morning,2319.328872185737,Downtown → Airport,False
+TRAIN,West End,airport,2024-01-01 07:31:00,17.0,38.17137061741376,88.0,2024-01-04,Thursday,7,Morning,648.9133004960339,West End → airport,False
+TRAM,West End,Airport,2024-01-01 07:32:00,70.0,47.56324903270124,131.0,2024-01-04,Thursday,7,Morning,3329.427432289087,West End → Airport,False
+TRAIN,Airport,West End,2024-01-01 07:33:00,4.0,35.27575482597295,154.0,2024-01-04,Thursday,7,Morning,141.1030193038918,Airport → West End,False
+TRAIN,North Station,West End,2024-01-01 07:34:00,20.0,15.25358432765244,97.5,2024-01-04,Thursday,7,Morning,305.07168655304883,North Station → West End,False
+TRAIN,North Station,West End,2024-01-01 07:35:00,47.0,25.403856477451566,17.0,2024-01-04,Thursday,7,Morning,1193.9812544402237,North Station → West End,False
+TRAM,Central,West End,2024-01-01 07:36:00,91.0,39.20028123557431,97.5,2024-01-05,Friday,7,Morning,3567.225592437262,Central → West End,False
+FERRY,Downtown,airport,2024-01-01 07:37:00,15.0,32.38538646305784,131.0,2024-01-05,Friday,7,Morning,485.7807969458676,Downtown → airport,False
+FERRY,South Point,Central,2024-01-01 07:38:00,70.0,2.885207613468163,174.0,2024-01-05,Friday,7,Morning,201.9645329427714,South Point → Central,False
+FERRY,West End,North Station,2024-01-01 07:39:00,47.0,18.32249806209843,118.0,2024-01-05,Friday,7,Morning,861.1574089186262,West End → North Station,False
+TRAIN,Central,Downtown,2024-01-01 07:40:00,78.0,47.86159086647216,24.0,2024-01-05,Friday,7,Morning,3733.204087584829,Central → Downtown,False
+FERRY,Central,North Station,2024-01-01 07:41:00,75.0,25.26985671265496,97.5,2024-01-05,Friday,7,Morning,1895.239253449122,Central → North Station,False
+TRAM,Airport,airport,2024-01-01 07:42:00,9.0,21.92009223297538,168.0,2024-01-05,Friday,7,Morning,197.28083009677843,Airport → airport,False
+BUS,West End,Airport,2024-01-01 07:43:00,48.0,23.15613045538505,133.0,2024-01-05,Friday,7,Morning,1111.4942618584823,West End → Airport,False
+TRAIN,Airport,Central,2024-01-01 07:44:00,16.0,10.83969483825561,147.0,2024-01-05,Friday,7,Morning,173.43511741208977,Airport → Central,False
+BUS,South Point,Airport,2024-01-01 07:45:00,69.0,18.75100495780736,21.0,2024-01-05,Friday,7,Morning,1293.8193420887078,South Point → Airport,False
+BUS,Central,Central,2024-01-01 07:46:00,61.0,18.80575617136524,156.0,2024-01-05,Friday,7,Morning,1147.1511264532796,Central → Central,False
+TRAIN,Central,Central,2024-01-01 07:47:00,10.0,3.091573499279884,62.0,2024-01-05,Friday,7,Morning,30.91573499279884,Central → Central,False
+FERRY,Downtown,West End,2024-01-01 07:48:00,50.0,38.49459761163696,76.0,2024-01-05,Friday,7,Morning,1924.7298805818482,Downtown → West End,False
+BUS,South Point,South Point,2024-01-01 07:49:00,3.0,21.11696937924201,113.0,2024-01-05,Friday,7,Morning,63.35090813772604,South Point → South Point,False
+FERRY,Central,West End,2024-01-01 07:50:00,77.0,41.19790439741296,27.0,2024-01-05,Friday,7,Morning,3172.238638600798,Central → West End,False
+BUS,South Point,South Point,2024-01-01 07:51:00,94.0,42.59222605543482,178.0,2024-01-05,Friday,7,Morning,4003.669249210873,South Point → South Point,False
+TRAM,West End,Airport,2024-01-01 07:52:00,48.0,25.403856477451566,76.0,2024-01-05,Friday,7,Morning,1219.385110917675,West End → Airport,False
+TRAM,North Station,South Point,2024-01-01 07:53:00,81.0,33.03899736742137,12.0,2024-01-05,Friday,7,Morning,2676.158786761131,North Station → South Point,False
+TRAM,Central,Airport,2024-01-01 07:54:00,48.0,23.8779493060676,63.0,2024-01-05,Friday,7,Morning,1146.1415666912449,Central → Airport,False
+BUS,Downtown,North Station,2024-01-01 07:55:00,19.0,44.06775852711351,115.0,2024-01-05,Friday,7,Morning,837.2874120151567,Downtown → North Station,False
+BUS,West End,North Station,2024-01-01 07:56:00,42.0,11.17916361923448,17.0,2024-01-05,Friday,7,Morning,469.52487200784816,West End → North Station,False
+BUS,South Point,South Point,2024-01-01 07:57:00,35.0,34.05175341534719,171.0,2024-01-05,Friday,7,Morning,1191.8113695371517,South Point → South Point,False
+FERRY,Airport,South Point,2024-01-01 07:58:00,46.0,25.403856477451566,160.0,2024-01-05,Friday,7,Morning,1168.577397962772,Airport → South Point,False
+BUS,West End,Airport,2024-01-01 07:59:00,26.0,15.11742313980572,97.5,2024-01-05,Friday,7,Morning,393.0530016349487,West End → Airport,False
+BUS,Central,West End,2024-01-01 08:00:00,69.0,7.261744730733044,123.0,2024-01-06,Saturday,8,Morning,501.06038642058,Central → West End,True
+BUS,South Point,Airport,2024-01-01 08:01:00,93.0,32.75616814362519,6.0,2024-01-06,Saturday,8,Morning,3046.3236373571426,South Point → Airport,True
+FERRY,North Station,airport,2024-01-01 08:02:00,64.0,37.06057417755037,149.0,2024-01-06,Saturday,8,Morning,2371.876747363224,North Station → airport,True
+BUS,West End,North Station,2024-01-01 08:03:00,37.0,25.403856477451566,97.5,2024-01-06,Saturday,8,Morning,939.9426896657079,West End → North Station,True
+BUS,Central,Central,2024-01-01 08:04:00,84.0,32.41921389910453,107.0,2024-01-06,Saturday,8,Morning,2723.2139675247804,Central → Central,True
+TRAM,Downtown,South Point,2024-01-01 08:05:00,49.0,20.05897992676941,17.0,2024-01-06,Saturday,8,Morning,982.8900164117011,Downtown → South Point,True
+FERRY,Airport,West End,2024-01-01 08:06:00,21.0,35.80374072248958,100.0,2024-01-06,Saturday,8,Morning,751.8785551722812,Airport → West End,True
+FERRY,South Point,Airport,2024-01-01 08:07:00,74.0,25.403856477451566,98.0,2024-01-06,Saturday,8,Morning,1879.8853793314158,South Point → Airport,True
+FERRY,West End,North Station,2024-01-01 08:08:00,64.0,44.56564263049063,86.0,2024-01-06,Saturday,8,Morning,2852.2011283514003,West End → North Station,True
+BUS,West End,West End,2024-01-01 08:09:00,5.0,14.7267750250462,17.0,2024-01-06,Saturday,8,Morning,73.633875125231,West End → West End,True
+FERRY,North Station,Airport,2024-01-01 08:10:00,70.0,18.70540639392957,175.0,2024-01-06,Saturday,8,Morning,1309.37844757507,North Station → Airport,True
+FERRY,North Station,South Point,2024-01-01 08:11:00,90.0,3.375551627977314,98.0,2024-01-06,Saturday,8,Morning,303.79964651795825,North Station → South Point,True
+BUS,Downtown,South Point,2024-01-01 08:12:00,4.0,6.019854509903181,153.0,2024-01-06,Saturday,8,Morning,24.079418039612722,Downtown → South Point,True
+FERRY,Airport,Downtown,2024-01-01 08:13:00,39.0,26.03516418426024,116.0,2024-01-06,Saturday,8,Morning,1015.3714031861493,Airport → Downtown,True
+BUS,Downtown,Central,2024-01-01 08:14:00,35.0,25.403856477451566,97.5,2024-01-06,Saturday,8,Morning,889.1349767108048,Downtown → Central,True
+BUS,Central,Downtown,2024-01-01 08:15:00,48.0,41.85627117423862,85.0,2024-01-06,Saturday,8,Morning,2009.1010163634537,Central → Downtown,True
+FERRY,Central,North Station,2024-01-01 08:16:00,24.0,1.227322738420215,172.0,2024-01-06,Saturday,8,Morning,29.45574572208516,Central → North Station,True
+TRAIN,Downtown,West End,2024-01-01 08:17:00,57.0,19.26515540926084,120.0,2024-01-06,Saturday,8,Morning,1098.1138583278678,Downtown → West End,True
+BUS,Airport,airport,2024-01-01 08:18:00,70.0,17.19860456507009,147.0,2024-01-06,Saturday,8,Morning,1203.9023195549064,Airport → airport,True
+TRAM,Downtown,Airport,2024-01-01 08:19:00,41.0,1.456717730421251,112.0,2024-01-06,Saturday,8,Morning,59.725426947271295,Downtown → Airport,True
+FERRY,Airport,South Point,2024-01-01 08:20:00,54.0,6.656235750525256,57.0,2024-01-06,Saturday,8,Morning,359.4367305283638,Airport → South Point,True
+BUS,Airport,Downtown,2024-01-01 08:21:00,46.0,20.97531240847244,132.0,2024-01-06,Saturday,8,Morning,964.8643707897322,Airport → Downtown,True
+TRAM,South Point,Downtown,2024-01-01 08:22:00,60.0,24.89679693014861,162.0,2024-01-06,Saturday,8,Morning,1493.8078158089165,South Point → Downtown,True
+TRAIN,Airport,Downtown,2024-01-01 08:23:00,60.0,20.51234248911602,165.0,2024-01-06,Saturday,8,Morning,1230.7405493469612,Airport → Downtown,True
+BUS,North Station,airport,2024-01-01 08:24:00,57.0,25.403856477451566,61.0,2024-01-07,Sunday,8,Morning,1448.0198192147393,North Station → airport,True
+FERRY,Airport,South Point,2024-01-01 08:25:00,31.0,29.95901790783124,56.0,2024-01-07,Sunday,8,Morning,928.7295551427684,Airport → South Point,True
+FERRY,Airport,West End,2024-01-01 08:26:00,84.0,0.9912291458278637,141.0,2024-01-07,Sunday,8,Morning,83.26324824954055,Airport → West End,True
+TRAIN,Airport,Airport,2024-01-01 08:27:00,24.0,23.47271039294844,115.0,2024-01-07,Sunday,8,Morning,563.3450494307625,Airport → Airport,True
+BUS,Central,West End,2024-01-01 08:28:00,89.0,48.19321242393562,5.0,2024-01-07,Sunday,8,Morning,4289.19590573027,Central → West End,True
+FERRY,North Station,North Station,2024-01-01 08:29:00,36.0,26.19209786641266,48.0,2024-01-07,Sunday,8,Morning,942.9155231908558,North Station → North Station,True
+TRAM,North Station,Airport,2024-01-01 08:30:00,85.0,34.03834223921818,97.5,2024-01-07,Sunday,8,Morning,2893.2590903335454,North Station → Airport,True
+FERRY,Downtown,Downtown,2024-01-01 08:31:00,30.0,15.93726096688572,102.0,2024-01-07,Sunday,8,Morning,478.1178290065716,Downtown → Downtown,True
+FERRY,South Point,airport,2024-01-01 08:32:00,24.0,38.81257321856175,13.0,2024-01-07,Sunday,8,Morning,931.501757245482,South Point → airport,True
+FERRY,Airport,North Station,2024-01-01 08:33:00,30.0,38.7596133528677,36.0,2024-01-07,Sunday,8,Morning,1162.788400586031,Airport → North Station,True
+BUS,West End,North Station,2024-01-01 08:34:00,86.0,26.30415435887988,19.0,2024-01-07,Sunday,8,Morning,2262.15727486367,West End → North Station,True
+FERRY,South Point,South Point,2024-01-01 08:35:00,92.0,48.81268425232107,144.0,2024-01-07,Sunday,8,Morning,4490.766951213538,South Point → South Point,True
+BUS,South Point,West End,2024-01-01 08:36:00,7.0,6.714735630751342,140.0,2024-01-07,Sunday,8,Morning,47.003149415259394,South Point → West End,True
+FERRY,North Station,airport,2024-01-01 08:37:00,35.0,1.338909412034259,76.0,2024-01-07,Sunday,8,Morning,46.86182942119907,North Station → airport,True
+FERRY,South Point,North Station,2024-01-01 08:38:00,55.0,38.62283148197625,159.0,2024-01-07,Sunday,8,Morning,2124.2557315086938,South Point → North Station,True
+FERRY,Airport,Downtown,2024-01-01 08:39:00,92.0,40.45419909956168,97.5,2024-01-07,Sunday,8,Morning,3721.786317159674,Airport → Downtown,True
+BUS,Airport,Downtown,2024-01-01 08:40:00,14.0,6.450257841468524,69.0,2024-01-07,Sunday,8,Morning,90.30360978055933,Airport → Downtown,True
+BUS,Central,Airport,2024-01-01 08:41:00,10.0,13.646350231451,111.0,2024-01-07,Sunday,8,Morning,136.46350231451,Central → Airport,True
+TRAIN,Airport,Central,2024-01-01 08:42:00,48.0,1.368841986648131,46.0,2024-01-07,Sunday,8,Morning,65.70441535911029,Airport → Central,True
+FERRY,Airport,South Point,2024-01-01 08:43:00,16.0,15.01877623363795,119.0,2024-01-07,Sunday,8,Morning,240.3004197382072,Airport → South Point,True
+FERRY,North Station,Central,2024-01-01 08:44:00,54.0,38.77052275897424,143.0,2024-01-07,Sunday,8,Morning,2093.608228984609,North Station → Central,True
+TRAIN,Airport,Airport,2024-01-01 08:45:00,95.0,26.13904612177266,107.0,2024-01-07,Sunday,8,Morning,2483.209381568403,Airport → Airport,True
+FERRY,Central,Downtown,2024-01-01 08:46:00,89.0,17.73073186183026,175.0,2024-01-07,Sunday,8,Morning,1578.0351357028933,Central → Downtown,True
+FERRY,West End,West End,2024-01-01 08:47:00,77.0,18.90109509786335,99.0,2024-01-07,Sunday,8,Morning,1455.384322535478,West End → West End,True
+BUS,North Station,Downtown,2024-01-01 08:48:00,70.0,0.5670044729156736,21.0,2024-01-08,Monday,8,Morning,39.69031310409715,North Station → Downtown,False
+FERRY,West End,South Point,2024-01-01 08:49:00,44.0,15.34012611447918,164.0,2024-01-08,Monday,8,Morning,674.9655490370839,West End → South Point,False
+FERRY,North Station,Downtown,2024-01-01 08:50:00,73.0,32.49970771107756,97.5,2024-01-08,Monday,8,Morning,2372.478662908662,North Station → Downtown,False
+TRAIN,Downtown,South Point,2024-01-01 08:51:00,45.0,48.72262496890968,172.0,2024-01-08,Monday,8,Morning,2192.5181236009353,Downtown → South Point,False
+TRAIN,South Point,South Point,2024-01-01 08:52:00,56.0,42.42951093570303,155.0,2024-01-08,Monday,8,Morning,2376.0526123993695,South Point → South Point,False
+TRAM,Downtown,South Point,2024-01-01 08:53:00,84.0,1.667950749953692,97.5,2024-01-08,Monday,8,Morning,140.10786299611013,Downtown → South Point,False
+BUS,Airport,Airport,2024-01-01 08:54:00,82.0,44.97874993140455,138.0,2024-01-08,Monday,8,Morning,3688.2574943751733,Airport → Airport,False
+FERRY,West End,South Point,2024-01-01 08:55:00,57.0,39.26832145828198,90.0,2024-01-08,Monday,8,Morning,2238.294323122073,West End → South Point,False
+BUS,Airport,airport,2024-01-01 08:56:00,21.0,39.12861811676353,106.0,2024-01-08,Monday,8,Morning,821.7009804520342,Airport → airport,False
+FERRY,South Point,West End,2024-01-01 08:57:00,68.0,23.17079007067679,169.0,2024-01-08,Monday,8,Morning,1575.6137248060218,South Point → West End,False
+BUS,North Station,Central,2024-01-01 08:58:00,50.0,25.403856477451566,97.5,2024-01-08,Monday,8,Morning,1270.1928238725782,North Station → Central,False
+TRAM,South Point,North Station,2024-01-01 08:59:00,33.0,15.49432857724304,119.0,2024-01-08,Monday,8,Morning,511.31284304902033,South Point → North Station,False
+BUS,Central,Central,2024-01-01 09:00:00,91.0,3.751895518241106,143.0,2024-01-08,Monday,9,Morning,341.42249215994065,Central → Central,False
+TRAM,South Point,South Point,2024-01-01 09:01:00,7.0,11.79765049293811,92.0,2024-01-08,Monday,9,Morning,82.58355345056677,South Point → South Point,False
+TRAIN,Central,West End,2024-01-01 09:02:00,70.0,12.70687993141222,97.5,2024-01-08,Monday,9,Morning,889.4815951988553,Central → West End,False
+BUS,South Point,Downtown,2024-01-01 09:03:00,15.0,25.403856477451566,153.0,2024-01-08,Monday,9,Morning,381.0578471617735,South Point → Downtown,False
+BUS,Central,West End,2024-01-01 09:04:00,82.0,37.49849812653635,119.0,2024-01-08,Monday,9,Morning,3074.8768463759807,Central → West End,False
+FERRY,West End,South Point,2024-01-01 09:05:00,32.0,23.95358650569836,67.0,2024-01-08,Monday,9,Morning,766.5147681823476,West End → South Point,False
+BUS,Airport,West End,2024-01-01 09:06:00,75.0,3.36330024763445,108.0,2024-01-08,Monday,9,Morning,252.24751857258374,Airport → West End,False
+FERRY,Airport,West End,2024-01-01 09:07:00,20.0,47.91059514891609,87.0,2024-01-08,Monday,9,Morning,958.2119029783217,Airport → West End,False
+FERRY, Central ,South Point,2024-01-01 09:08:00,88.0,47.16485379515856,97.5,2024-01-08,Monday,9,Morning,4150.507133973953, Central  → South Point,False
+BUS,Airport,Airport,2024-01-01 09:09:00,15.0,39.36688238584622,160.0,2024-01-08,Monday,9,Morning,590.5032357876933,Airport → Airport,False
+TRAM,North Station,West End,2024-01-01 09:10:00,48.0,49.57073112742892,21.0,2024-01-08,Monday,9,Morning,2379.395094116588,North Station → West End,False
+BUS,South Point,North Station,2024-01-01 09:11:00,71.0,27.45187547361301,10.0,2024-01-08,Monday,9,Morning,1949.0831586265238,South Point → North Station,False
+BUS,Downtown,North Station,2024-01-01 09:12:00,21.0,25.403856477451566,151.0,2024-01-09,Tuesday,9,Morning,533.4809860264829,Downtown → North Station,False
+FERRY,North Station,airport,2024-01-01 09:13:00,42.0,4.242449510529164,32.0,2024-01-09,Tuesday,9,Morning,178.1828794422249,North Station → airport,False
+FERRY,North Station,Airport,2024-01-01 09:14:00,26.0,18.60119703893788,42.0,2024-01-09,Tuesday,9,Morning,483.6311230123849,North Station → Airport,False
+TRAIN,Central,Downtown,2024-01-01 09:15:00,14.0,11.65637276633491,123.0,2024-01-09,Tuesday,9,Morning,163.18921872868873,Central → Downtown,False
+TRAM,Airport,airport,2024-01-01 09:16:00,57.0,10.19373766464637,41.0,2024-01-09,Tuesday,9,Morning,581.0430468848431,Airport → airport,False
+TRAIN,West End,North Station,2024-01-01 09:17:00,37.0,7.469745970187466,119.0,2024-01-09,Tuesday,9,Morning,276.38060089693624,West End → North Station,False
+TRAIN,West End,Downtown,2024-01-01 09:18:00,58.0,31.30947525751683,72.0,2024-01-09,Tuesday,9,Morning,1815.9495649359762,West End → Downtown,False
+BUS,Downtown,West End,2024-01-01 09:19:00,21.0,39.1754318594916,47.0,2024-01-09,Tuesday,9,Morning,822.6840690493236,Downtown → West End,False
+FERRY, Central ,Downtown,2024-01-01 09:20:00,82.0,29.12577077130785,168.0,2024-01-09,Tuesday,9,Morning,2388.3132032472436, Central  → Downtown,False
+BUS,South Point,Central,2024-01-01 09:21:00,69.0,7.774654124616379,62.0,2024-01-09,Tuesday,9,Morning,536.4511345985302,South Point → Central,False
+BUS,West End,airport,2024-01-01 09:22:00,3.0,40.65062661170681,17.0,2024-01-09,Tuesday,9,Morning,121.95187983512044,West End → airport,False
+TRAIN,Downtown,West End,2024-01-01 09:23:00,87.0,31.97975800460456,56.0,2024-01-09,Tuesday,9,Morning,2782.2389464005964,Downtown → West End,False
+TRAM,West End,South Point,2024-01-01 09:24:00,90.0,19.71420245328628,62.0,2024-01-09,Tuesday,9,Morning,1774.2782207957653,West End → South Point,False
+FERRY, Central ,Airport,2024-01-01 09:25:00,37.0,25.403856477451566,36.0,2024-01-09,Tuesday,9,Morning,939.9426896657079, Central  → Airport,False
+TRAM,Central,West End,2024-01-01 09:26:00,88.0,13.36529647252023,109.0,2024-01-09,Tuesday,9,Morning,1176.1460895817802,Central → West End,False
+TRAM,Downtown,South Point,2024-01-01 09:27:00,49.0,17.58701432046342,87.0,2024-01-09,Tuesday,9,Morning,861.7637017027076,Downtown → South Point,False
+TRAM,Central,Airport,2024-01-01 09:28:00,19.0,45.91554923503352,103.0,2024-01-09,Tuesday,9,Morning,872.3954354656369,Central → Airport,False
+TRAIN,Central,Airport,2024-01-01 09:29:00,89.0,14.87997303073531,108.0,2024-01-09,Tuesday,9,Morning,1324.3175997354426,Central → Airport,False
+TRAIN,Central,West End,2024-01-01 09:30:00,85.0,23.76441927381786,32.0,2024-01-09,Tuesday,9,Morning,2019.9756382745181,Central → West End,False
+BUS,North Station,Downtown,2024-01-01 09:31:00,12.0,44.56198630110273,133.0,2024-01-09,Tuesday,9,Morning,534.7438356132327,North Station → Downtown,False
+FERRY,Airport,Downtown,2024-01-01 09:32:00,61.0,25.403856477451566,174.0,2024-01-09,Tuesday,9,Morning,1549.6352451245455,Airport → Downtown,False
+FERRY,North Station,Airport,2024-01-01 09:33:00,41.0,3.579059695152786,52.0,2024-01-09,Tuesday,9,Morning,146.74144750126422,North Station → Airport,False
+TRAM,Airport,Downtown,2024-01-01 09:34:00,33.0,7.791500691809031,44.0,2024-01-09,Tuesday,9,Morning,257.119522829698,Airport → Downtown,False
+BUS,Central,Central,2024-01-01 09:35:00,50.0,0.8881587432098825,101.0,2024-01-09,Tuesday,9,Morning,44.40793716049413,Central → Central,False
+FERRY,Downtown,Airport,2024-01-01 09:36:00,48.0,31.73062861634359,118.0,2024-01-10,Wednesday,9,Morning,1523.0701735844923,Downtown → Airport,False
+TRAIN, Central ,Airport,2024-01-01 09:37:00,71.0,22.65983455781571,136.0,2024-01-10,Wednesday,9,Morning,1608.8482536049155, Central  → Airport,False
+BUS,South Point,South Point,2024-01-01 09:38:00,86.0,7.146605119662639,170.0,2024-01-10,Wednesday,9,Morning,614.608040290987,South Point → South Point,False
+BUS,South Point,Downtown,2024-01-01 09:39:00,33.0,47.91773899231013,159.0,2024-01-10,Wednesday,9,Morning,1581.2853867462343,South Point → Downtown,False
+BUS,West End,Airport,2024-01-01 09:40:00,81.0,26.71815633530818,141.0,2024-01-10,Wednesday,9,Morning,2164.1706631599627,West End → Airport,False
+FERRY,Airport,Central,2024-01-01 09:41:00,24.0,12.47371805858801,97.5,2024-01-10,Wednesday,9,Morning,299.36923340611224,Airport → Central,False
+TRAIN,Downtown,South Point,2024-01-01 09:42:00,61.0,25.27987677215802,148.0,2024-01-10,Wednesday,9,Morning,1542.0724831016391,Downtown → South Point,False
+BUS,North Station,West End,2024-01-01 09:43:00,48.0,34.14120647038784,80.0,2024-01-10,Wednesday,9,Morning,1638.7779105786165,North Station → West End,False
+TRAM,Central,Airport,2024-01-01 09:44:00,98.0,4.273841289691442,35.0,2024-01-10,Wednesday,9,Morning,418.83644638976136,Central → Airport,False
+BUS,West End,Central,2024-01-01 09:45:00,28.0,14.09783884487065,123.0,2024-01-10,Wednesday,9,Morning,394.7394876563782,West End → Central,False
+FERRY,South Point,North Station,2024-01-01 09:46:00,58.0,40.44479179875768,97.5,2024-01-10,Wednesday,9,Morning,2345.797924327945,South Point → North Station,False
+FERRY,North Station,airport,2024-01-01 09:47:00,43.0,23.25341108493173,29.0,2024-01-10,Wednesday,9,Morning,999.8966766520645,North Station → airport,False
+FERRY,North Station,Central,2024-01-01 09:48:00,41.0,27.5555685305986,38.0,2024-01-10,Wednesday,9,Morning,1129.7783097545425,North Station → Central,False
+TRAIN,Central,South Point,2024-01-01 09:49:00,39.0,21.92439210936873,71.0,2024-01-10,Wednesday,9,Morning,855.0512922653804,Central → South Point,False
+BUS,Airport,West End,2024-01-01 09:50:00,86.0,2.673047160828753,156.0,2024-01-10,Wednesday,9,Morning,229.88205583127277,Airport → West End,False
+BUS,South Point,North Station,2024-01-01 09:51:00,49.0,8.704614101097718,122.0,2024-01-10,Wednesday,9,Morning,426.5260909537882,South Point → North Station,False
+TRAIN,Downtown,Downtown,2024-01-01 09:52:00,17.0,22.5543111177236,77.0,2024-01-10,Wednesday,9,Morning,383.4232890013012,Downtown → Downtown,False
+BUS,North Station,Downtown,2024-01-01 09:53:00,98.0,10.85468053769243,30.0,2024-01-10,Wednesday,9,Morning,1063.7586926938582,North Station → Downtown,False
+BUS,Central,Central,2024-01-01 09:54:00,48.0,25.403856477451566,152.0,2024-01-10,Wednesday,9,Morning,1219.385110917675,Central → Central,False
+BUS,Downtown,South Point,2024-01-01 09:55:00,70.0,42.26065837056527,108.0,2024-01-10,Wednesday,9,Morning,2958.2460859395687,Downtown → South Point,False
+TRAIN,Airport,South Point,2024-01-01 09:56:00,98.0,49.06903019362373,14.0,2024-01-10,Wednesday,9,Morning,4808.764958975125,Airport → South Point,False
+TRAM,South Point,Downtown,2024-01-01 09:57:00,65.0,39.7605722628386,71.0,2024-01-10,Wednesday,9,Morning,2584.437197084509,South Point → Downtown,False
+FERRY,Airport,North Station,2024-01-01 09:58:00,74.0,42.76235362438102,156.0,2024-01-10,Wednesday,9,Morning,3164.4141682041954,Airport → North Station,False
+FERRY,North Station,West End,2024-01-01 09:59:00,48.0,12.47786795069375,9.0,2024-01-10,Wednesday,9,Morning,598.9376616333,North Station → West End,False
+TRAIN,Downtown,airport,2024-01-01 10:00:00,5.0,48.05103528790339,31.0,2024-01-11,Thursday,10,Morning,240.25517643951696,Downtown → airport,False
+BUS,Downtown,Airport,2024-01-01 10:01:00,2.0,10.24782237044471,117.0,2024-01-11,Thursday,10,Morning,20.49564474088942,Downtown → Airport,False
+TRAM,Downtown,Airport,2024-01-01 10:02:00,48.0,47.5957756129107,97.5,2024-01-11,Thursday,10,Morning,2284.5972294197136,Downtown → Airport,False
+BUS,North Station,airport,2024-01-01 10:03:00,57.0,49.74355505131457,167.0,2024-01-11,Thursday,10,Morning,2835.382637924931,North Station → airport,False
+TRAIN,North Station,Downtown,2024-01-01 10:04:00,48.0,35.73027888442941,109.0,2024-01-11,Thursday,10,Morning,1715.0533864526117,North Station → Downtown,False
+BUS,Airport,West End,2024-01-01 10:05:00,74.0,49.06661472369518,48.0,2024-01-11,Thursday,10,Morning,3630.9294895534435,Airport → West End,False
+TRAIN,West End,South Point,2024-01-01 10:06:00,98.0,28.69221908857163,97.5,2024-01-11,Thursday,10,Morning,2811.8374706800196,West End → South Point,False
+TRAM,Airport,Airport,2024-01-01 10:07:00,16.0,13.34731826721647,179.0,2024-01-11,Thursday,10,Morning,213.55709227546353,Airport → Airport,False
+TRAM,South Point,Central,2024-01-01 10:08:00,51.0,22.13129634044823,166.0,2024-01-11,Thursday,10,Morning,1128.6961133628597,South Point → Central,False
+TRAIN,Central,Central,2024-01-01 10:09:00,39.0,25.403856477451566,99.0,2024-01-11,Thursday,10,Morning,990.7504026206111,Central → Central,False
+FERRY,Downtown,Downtown,2024-01-01 10:10:00,86.0,4.117537320337242,97.5,2024-01-11,Thursday,10,Morning,354.10820954900277,Downtown → Downtown,False
+TRAIN,West End,South Point,2024-01-01 10:11:00,76.0,25.403856477451566,144.0,2024-01-11,Thursday,10,Morning,1930.693092286319,West End → South Point,False
+FERRY,Central,North Station,2024-01-01 10:12:00,88.0,49.06830291973358,136.0,2024-01-11,Thursday,10,Morning,4318.010656936555,Central → North Station,False
+BUS,West End,South Point,2024-01-01 10:13:00,40.0,9.910328664294518,91.0,2024-01-11,Thursday,10,Morning,396.4131465717807,West End → South Point,False
+BUS,Airport,Central,2024-01-01 10:14:00,38.0,39.73345825627497,116.0,2024-01-11,Thursday,10,Morning,1509.8714137384488,Airport → Central,False
+BUS,North Station,Central,2024-01-01 10:15:00,60.0,45.44099029209116,97.5,2024-01-11,Thursday,10,Morning,2726.4594175254697,North Station → Central,False
+BUS,Downtown,Airport,2024-01-01 10:16:00,59.0,47.21322884460093,93.0,2024-01-11,Thursday,10,Morning,2785.5805018314545,Downtown → Airport,False
+FERRY, Central ,South Point,2024-01-01 10:17:00,10.0,48.02671241806964,70.0,2024-01-11,Thursday,10,Morning,480.26712418069644, Central  → South Point,False
+BUS,Central,South Point,2024-01-01 10:18:00,99.0,26.31225211671286,162.0,2024-01-11,Thursday,10,Morning,2604.912959554573,Central → South Point,False
+TRAIN,Central,Central,2024-01-01 10:19:00,64.0,48.87674144557943,135.0,2024-01-11,Thursday,10,Morning,3128.1114525170833,Central → Central,False
+TRAIN,Central,North Station,2024-01-01 10:20:00,48.0,37.98685525315472,97.5,2024-01-11,Thursday,10,Morning,1823.3690521514268,Central → North Station,False
+TRAM,Central,Downtown,2024-01-01 10:21:00,49.0,8.502736093729613,153.0,2024-01-11,Thursday,10,Morning,416.634068592751,Central → Downtown,False
+BUS, Central ,Downtown,2024-01-01 10:22:00,64.0,24.10655527016451,97.5,2024-01-11,Thursday,10,Morning,1542.8195372905286, Central  → Downtown,False
+FERRY,West End,South Point,2024-01-01 10:23:00,48.0,36.0573931809142,120.0,2024-01-11,Thursday,10,Morning,1730.7548726838813,West End → South Point,False
+BUS,Airport,Downtown,2024-01-01 10:24:00,7.0,25.403856477451566,97.5,2024-01-12,Friday,10,Morning,177.82699534216096,Airport → Downtown,False
+BUS,Downtown,Central,2024-01-01 10:25:00,21.0,32.21045158566993,42.0,2024-01-12,Friday,10,Morning,676.4194832990685,Downtown → Central,False
+BUS,North Station,Central,2024-01-01 10:26:00,20.0,33.49672371280765,147.0,2024-01-12,Friday,10,Morning,669.934474256153,North Station → Central,False
+FERRY, Central ,South Point,2024-01-01 10:27:00,26.0,8.55363731852401,114.0,2024-01-12,Friday,10,Morning,222.39457028162428, Central  → South Point,False
+TRAIN,Airport,South Point,2024-01-01 10:28:00,68.0,28.47172296641144,97.5,2024-01-12,Friday,10,Morning,1936.077161715978,Airport → South Point,False
+TRAIN,Airport,airport,2024-01-01 10:29:00,86.0,38.69553209344108,29.0,2024-01-12,Friday,10,Morning,3327.8157600359327,Airport → airport,False
+BUS,North Station,South Point,2024-01-01 10:30:00,15.0,25.19533539452912,25.0,2024-01-12,Friday,10,Morning,377.9300309179368,North Station → South Point,False
+TRAM,North Station,North Station,2024-01-01 10:31:00,85.0,1.099104280417317,125.0,2024-01-12,Friday,10,Morning,93.42386383547195,North Station → North Station,False
+TRAIN,West End,Downtown,2024-01-01 10:32:00,79.0,25.403856477451566,126.0,2024-01-12,Friday,10,Morning,2006.9046617186737,West End → Downtown,False
+TRAIN,South Point,South Point,2024-01-01 10:33:00,86.0,25.403856477451566,97.5,2024-01-12,Friday,10,Morning,2184.7316570608346,South Point → South Point,False
+FERRY,Downtown,West End,2024-01-01 10:34:00,92.0,46.34660638737321,74.0,2024-01-12,Friday,10,Morning,4263.887787638335,Downtown → West End,False
+TRAM,Central,Airport,2024-01-01 10:35:00,14.0,11.81950059037863,117.0,2024-01-12,Friday,10,Morning,165.47300826530082,Central → Airport,False
+FERRY,South Point,West End,2024-01-01 10:36:00,27.0,31.90100259914851,111.0,2024-01-12,Friday,10,Morning,861.3270701770098,South Point → West End,False
+FERRY,Airport,Central,2024-01-01 10:37:00,40.0,11.49275559931937,116.0,2024-01-12,Friday,10,Morning,459.71022397277477,Airport → Central,False
+FERRY,North Station,Downtown,2024-01-01 10:38:00,58.0,16.42266448814766,97.5,2024-01-12,Friday,10,Morning,952.5145403125643,North Station → Downtown,False
+BUS,South Point,South Point,2024-01-01 10:39:00,28.0,42.47808343527345,51.0,2024-01-12,Friday,10,Morning,1189.3863361876565,South Point → South Point,False
+FERRY,Downtown,West End,2024-01-01 10:40:00,26.0,36.57864139236237,95.0,2024-01-12,Friday,10,Morning,951.0446762014217,Downtown → West End,False
+TRAIN,Airport,Downtown,2024-01-01 10:41:00,63.0,5.222264227003926,97.5,2024-01-12,Friday,10,Morning,329.00264630124735,Airport → Downtown,False
+BUS,Central,Central,2024-01-01 10:42:00,66.0,21.72075003882846,153.0,2024-01-12,Friday,10,Morning,1433.5695025626783,Central → Central,False
+TRAM,Central,North Station,2024-01-01 10:43:00,25.0,1.943903300440591,108.0,2024-01-12,Friday,10,Morning,48.59758251101478,Central → North Station,False
+TRAIN, Central ,Airport,2024-01-01 10:44:00,3.0,24.30406225684894,155.0,2024-01-12,Friday,10,Morning,72.91218677054682, Central  → Airport,False
+FERRY,Downtown,Downtown,2024-01-01 10:45:00,72.0,33.29048357920287,44.0,2024-01-12,Friday,10,Morning,2396.914817702607,Downtown → Downtown,False
+FERRY,North Station,Downtown,2024-01-01 10:46:00,44.0,6.365879868108502,142.0,2024-01-12,Friday,10,Morning,280.0987141967741,North Station → Downtown,False
+FERRY,Central,North Station,2024-01-01 10:47:00,97.0,14.7998044760037,93.0,2024-01-12,Friday,10,Morning,1435.5810341723588,Central → North Station,False
+FERRY,Airport,Downtown,2024-01-01 10:48:00,42.0,20.19291296235677,65.0,2024-01-13,Saturday,10,Morning,848.1023444189842,Airport → Downtown,True
+BUS,South Point,Central,2024-01-01 10:49:00,48.0,46.01678572047446,9.0,2024-01-13,Saturday,10,Morning,2208.8057145827743,South Point → Central,True
+BUS,Airport,Central,2024-01-01 10:50:00,6.0,49.66612326343672,126.0,2024-01-13,Saturday,10,Morning,297.99673958062033,Airport → Central,True
+TRAM,West End,North Station,2024-01-01 10:51:00,39.0,2.723109300282985,59.0,2024-01-13,Saturday,10,Morning,106.20126271103642,West End → North Station,True
+FERRY,West End,Airport,2024-01-01 10:52:00,52.0,38.1698922130219,41.0,2024-01-13,Saturday,10,Morning,1984.8343950771389,West End → Airport,True
+TRAIN,Downtown,South Point,2024-01-01 10:53:00,23.0,18.90034128691599,60.0,2024-01-13,Saturday,10,Morning,434.70784959906774,Downtown → South Point,True
+BUS,North Station,West End,2024-01-01 10:54:00,89.0,25.403856477451566,106.0,2024-01-13,Saturday,10,Morning,2260.9432264931893,North Station → West End,True
+FERRY,West End,South Point,2024-01-01 10:55:00,50.0,37.83611618067762,97.5,2024-01-13,Saturday,10,Morning,1891.8058090338811,West End → South Point,True
+TRAM,Central,Downtown,2024-01-01 10:56:00,43.0,45.96210839119773,77.0,2024-01-13,Saturday,10,Morning,1976.3706608215025,Central → Downtown,True
+TRAM,Airport,West End,2024-01-01 10:57:00,19.0,47.57096542787615,63.0,2024-01-13,Saturday,10,Morning,903.8483431296469,Airport → West End,True
+FERRY,Airport,North Station,2024-01-01 10:58:00,69.0,29.06756800889688,6.0,2024-01-13,Saturday,10,Morning,2005.6621926138848,Airport → North Station,True
+TRAM,Downtown,North Station,2024-01-01 10:59:00,51.0,18.17749738537489,108.0,2024-01-13,Saturday,10,Morning,927.0523666541193,Downtown → North Station,True
+FERRY,South Point,Airport,2024-01-01 11:00:00,11.0,39.48367975000957,55.0,2024-01-13,Saturday,11,Morning,434.3204772501053,South Point → Airport,True
+TRAIN,Downtown,West End,2024-01-01 11:01:00,12.0,12.92456847148386,34.0,2024-01-13,Saturday,11,Morning,155.09482165780634,Downtown → West End,True
+FERRY,South Point,Central,2024-01-01 11:02:00,74.0,28.42166442725913,15.0,2024-01-13,Saturday,11,Morning,2103.2031676171755,South Point → Central,True
+FERRY,Downtown,West End,2024-01-01 11:03:00,8.0,18.24963384548122,112.0,2024-01-13,Saturday,11,Morning,145.99707076384976,Downtown → West End,True
+FERRY,Downtown,Downtown,2024-01-01 11:04:00,24.0,33.00323814853986,80.0,2024-01-13,Saturday,11,Morning,792.0777155649566,Downtown → Downtown,True
+TRAM,Downtown,Central,2024-01-01 11:05:00,92.0,12.39974618822859,97.5,2024-01-13,Saturday,11,Morning,1140.7766493170302,Downtown → Central,True
+FERRY,South Point,North Station,2024-01-01 11:06:00,41.0,9.983850813873875,97.5,2024-01-13,Saturday,11,Morning,409.3378833688289,South Point → North Station,True
+TRAM,South Point,West End,2024-01-01 11:07:00,36.0,25.403856477451566,127.0,2024-01-13,Saturday,11,Morning,914.5388331882564,South Point → West End,True
+BUS,Downtown,South Point,2024-01-01 11:08:00,85.0,5.539282306002076,97.5,2024-01-13,Saturday,11,Morning,470.83899601017646,Downtown → South Point,True
+BUS,West End,Airport,2024-01-01 11:09:00,72.0,25.54491643287912,126.0,2024-01-13,Saturday,11,Morning,1839.2339831672966,West End → Airport,True
+FERRY,North Station,airport,2024-01-01 11:10:00,55.0,11.43221275666894,98.0,2024-01-13,Saturday,11,Morning,628.7717016167917,North Station → airport,True
+FERRY,North Station,Airport,2024-01-01 11:11:00,9.0,2.427033184620539,107.0,2024-01-13,Saturday,11,Morning,21.843298661584853,North Station → Airport,True
+BUS,North Station,Downtown,2024-01-01 11:12:00,47.0,2.282931505425606,166.0,2024-01-14,Sunday,11,Morning,107.29778075500347,North Station → Downtown,True
+FERRY,South Point,South Point,2024-01-01 11:13:00,15.0,9.173477719238454,35.0,2024-01-14,Sunday,11,Morning,137.6021657885768,South Point → South Point,True
+FERRY,South Point,West End,2024-01-01 11:14:00,48.0,43.40513254804701,56.0,2024-01-14,Sunday,11,Morning,2083.4463623062566,South Point → West End,True
+BUS,West End,West End,2024-01-01 11:15:00,82.0,14.48269782686282,93.0,2024-01-14,Sunday,11,Morning,1187.5812218027513,West End → West End,True
+BUS,North Station,South Point,2024-01-01 11:16:00,48.0,47.54772894347714,80.0,2024-01-14,Sunday,11,Morning,2282.290989286903,North Station → South Point,True
+TRAIN,North Station,West End,2024-01-01 11:17:00,60.0,25.403856477451566,133.0,2024-01-14,Sunday,11,Morning,1524.231388647094,North Station → West End,True
+FERRY,Downtown,Downtown,2024-01-01 11:18:00,84.0,22.11240239355392,26.0,2024-01-14,Sunday,11,Morning,1857.4418010585293,Downtown → Downtown,True
+FERRY,South Point,Central,2024-01-01 11:19:00,70.0,29.214397316138,44.0,2024-01-14,Sunday,11,Morning,2045.0078121296601,South Point → Central,True
+TRAIN,North Station,Downtown,2024-01-01 11:20:00,12.0,26.07657006870025,105.0,2024-01-14,Sunday,11,Morning,312.918840824403,North Station → Downtown,True
+TRAIN,Airport,Airport,2024-01-01 11:21:00,2.0,38.05942456098759,115.0,2024-01-14,Sunday,11,Morning,76.11884912197517,Airport → Airport,True
+FERRY,West End,Downtown,2024-01-01 11:22:00,7.0,14.48355526565619,133.0,2024-01-14,Sunday,11,Morning,101.38488685959332,West End → Downtown,True
+FERRY,Airport,Airport,2024-01-01 11:23:00,80.0,25.403856477451566,69.0,2024-01-14,Sunday,11,Morning,2032.3085181961253,Airport → Airport,True
+TRAM,Airport,West End,2024-01-01 11:24:00,3.0,44.75766797539591,97.5,2024-01-14,Sunday,11,Morning,134.27300392618773,Airport → West End,True
+TRAIN,West End,Central,2024-01-01 11:25:00,3.0,47.34959740094507,153.0,2024-01-14,Sunday,11,Morning,142.04879220283522,West End → Central,True
+BUS,Airport,West End,2024-01-01 11:26:00,27.0,44.68163226058049,83.0,2024-01-14,Sunday,11,Morning,1206.4040710356733,Airport → West End,True
+FERRY,North Station,North Station,2024-01-01 11:27:00,40.0,21.26267570088702,26.0,2024-01-14,Sunday,11,Morning,850.5070280354807,North Station → North Station,True
+FERRY,South Point,West End,2024-01-01 11:28:00,33.0,39.12809239884064,170.0,2024-01-14,Sunday,11,Morning,1291.2270491617412,South Point → West End,True
+BUS,West End,Airport,2024-01-01 11:29:00,92.0,24.07861879840439,103.0,2024-01-14,Sunday,11,Morning,2215.2329294532037,West End → Airport,True
+TRAIN,Downtown,West End,2024-01-01 11:30:00,1.0,25.12822268123206,12.0,2024-01-14,Sunday,11,Morning,25.12822268123206,Downtown → West End,True
+BUS,Airport,West End,2024-01-01 11:31:00,8.0,10.63166539833556,179.0,2024-01-14,Sunday,11,Morning,85.05332318668448,Airport → West End,True
+TRAIN,West End,Central,2024-01-01 11:32:00,32.0,29.76095001129656,21.0,2024-01-14,Sunday,11,Morning,952.35040036149,West End → Central,True
+TRAM,Central,West End,2024-01-01 11:33:00,48.0,9.713726938790723,21.0,2024-01-14,Sunday,11,Morning,466.2588930619547,Central → West End,True
+BUS,Central,Central,2024-01-01 11:34:00,48.0,16.91245260382609,94.0,2024-01-14,Sunday,11,Morning,811.7977249836523,Central → Central,True
+BUS,South Point,South Point,2024-01-01 11:35:00,94.0,42.82399498018679,145.0,2024-01-14,Sunday,11,Morning,4025.4555281375583,South Point → South Point,True
+FERRY,North Station,North Station,2024-01-01 11:36:00,70.0,10.75025255593733,149.0,2024-01-15,Monday,11,Morning,752.517678915613,North Station → North Station,False
+FERRY,South Point,Central,2024-01-01 11:37:00,19.0,4.022335116084925,170.0,2024-01-15,Monday,11,Morning,76.42436720561358,South Point → Central,False
+BUS,South Point,Airport,2024-01-01 11:38:00,32.0,25.403856477451566,85.0,2024-01-15,Monday,11,Morning,812.9234072784501,South Point → Airport,False
+BUS,South Point,South Point,2024-01-01 11:39:00,9.0,47.06883376490384,82.0,2024-01-15,Monday,11,Morning,423.6195038841346,South Point → South Point,False
+FERRY,South Point,Central,2024-01-01 11:40:00,12.0,25.59256167911081,177.0,2024-01-15,Monday,11,Morning,307.1107401493297,South Point → Central,False
+FERRY,Downtown,Central,2024-01-01 11:41:00,11.0,20.76589755494241,10.0,2024-01-15,Monday,11,Morning,228.4248731043665,Downtown → Central,False
+FERRY,Downtown,North Station,2024-01-01 11:42:00,46.0,40.63848975989196,167.0,2024-01-15,Monday,11,Morning,1869.3705289550303,Downtown → North Station,False
+TRAM,West End,Airport,2024-01-01 11:43:00,16.0,25.403856477451566,114.0,2024-01-15,Monday,11,Morning,406.46170363922505,West End → Airport,False
+TRAIN,Central,Downtown,2024-01-01 11:44:00,48.0,16.94345613922243,18.0,2024-01-15,Monday,11,Morning,813.2858946826766,Central → Downtown,False
+BUS,South Point,Downtown,2024-01-01 11:45:00,48.0,34.83409384495286,97.5,2024-01-15,Monday,11,Morning,1672.0365045577373,South Point → Downtown,False
+TRAM,West End,Central,2024-01-01 11:46:00,21.0,38.67057938466839,147.0,2024-01-15,Monday,11,Morning,812.0821670780363,West End → Central,False
+FERRY,Central,West End,2024-01-01 11:47:00,30.0,32.90520899986475,58.0,2024-01-15,Monday,11,Morning,987.1562699959425,Central → West End,False
+BUS, Central ,Airport,2024-01-01 11:48:00,13.0,8.003956202604918,97.5,2024-01-15,Monday,11,Morning,104.05143063386393, Central  → Airport,False
+TRAM, Central ,South Point,2024-01-01 11:49:00,34.0,43.85621263409432,17.0,2024-01-15,Monday,11,Morning,1491.1112295592068, Central  → South Point,False
+TRAIN,Downtown,West End,2024-01-01 11:50:00,4.0,27.18518036043243,163.0,2024-01-15,Monday,11,Morning,108.74072144172972,Downtown → West End,False
+TRAM,Airport,West End,2024-01-01 11:51:00,28.0,14.48238510531518,167.0,2024-01-15,Monday,11,Morning,405.50678294882505,Airport → West End,False
+TRAIN,Central,Airport,2024-01-01 11:52:00,95.0,21.54879517916585,64.0,2024-01-15,Monday,11,Morning,2047.1355420207558,Central → Airport,False
+FERRY,Airport,Central,2024-01-01 11:53:00,59.0,2.359768974745915,10.0,2024-01-15,Monday,11,Morning,139.226369510009,Airport → Central,False
+TRAIN,North Station,Central,2024-01-01 11:54:00,27.0,25.403856477451566,62.0,2024-01-15,Monday,11,Morning,685.9041248911923,North Station → Central,False
+BUS, Central ,Central,2024-01-01 11:55:00,69.0,38.39456415053511,53.0,2024-01-15,Monday,11,Morning,2649.2249263869226, Central  → Central,False
+FERRY,Airport,Central,2024-01-01 11:56:00,25.0,0.5005759203906239,155.0,2024-01-15,Monday,11,Morning,12.514398009765598,Airport → Central,False
+BUS,Downtown,Downtown,2024-01-01 11:57:00,3.0,21.12000850987346,97.5,2024-01-15,Monday,11,Morning,63.36002552962039,Downtown → Downtown,False
+BUS,Downtown,Central,2024-01-01 11:58:00,97.0,26.36425396373663,30.0,2024-01-15,Monday,11,Morning,2557.332634482453,Downtown → Central,False
+TRAIN,West End,Downtown,2024-01-01 11:59:00,68.0,25.403856477451566,51.0,2024-01-15,Monday,11,Morning,1727.4622404667064,West End → Downtown,False
+TRAIN,Airport,Downtown,2024-01-01 12:00:00,25.0,48.66736906713047,9.0,2024-01-16,Tuesday,12,Afternoon,1216.684226678262,Airport → Downtown,False
+TRAIN,South Point,Central,2024-01-01 12:01:00,20.0,11.69320389685876,24.0,2024-01-16,Tuesday,12,Afternoon,233.8640779371752,South Point → Central,False
+TRAIN,Airport,airport,2024-01-01 12:02:00,34.0,15.5578366219959,138.0,2024-01-16,Tuesday,12,Afternoon,528.9664451478606,Airport → airport,False
+TRAIN,Central,airport,2024-01-01 12:03:00,26.0,15.54515435662385,63.0,2024-01-16,Tuesday,12,Afternoon,404.1740132722201,Central → airport,False
+FERRY,Central,West End,2024-01-01 12:04:00,5.0,11.90562477480882,150.0,2024-01-16,Tuesday,12,Afternoon,59.5281238740441,Central → West End,False
+BUS,Airport,Downtown,2024-01-01 12:05:00,99.0,0.5729541932724151,97.5,2024-01-16,Tuesday,12,Afternoon,56.7224651339691,Airport → Downtown,False
+BUS,North Station,Airport,2024-01-01 12:06:00,61.0,36.60256730735582,21.0,2024-01-16,Tuesday,12,Afternoon,2232.756605748705,North Station → Airport,False
+TRAM,Downtown,Airport,2024-01-01 12:07:00,92.0,48.35885224006463,18.0,2024-01-16,Tuesday,12,Afternoon,4449.014406085946,Downtown → Airport,False
+BUS,Central,South Point,2024-01-01 12:08:00,93.0,11.60252742260973,17.0,2024-01-16,Tuesday,12,Afternoon,1079.035050302705,Central → South Point,False
+TRAM, Central ,Airport,2024-01-01 12:09:00,48.0,33.32083599426941,97.5,2024-01-16,Tuesday,12,Afternoon,1599.4001277249317, Central  → Airport,False
+BUS,Central,North Station,2024-01-01 12:10:00,50.0,37.2238681844564,132.0,2024-01-16,Tuesday,12,Afternoon,1861.19340922282,Central → North Station,False
+TRAIN,West End,Airport,2024-01-01 12:11:00,48.0,42.49705626498098,48.0,2024-01-16,Tuesday,12,Afternoon,2039.8587007190872,West End → Airport,False
+BUS,South Point,West End,2024-01-01 12:12:00,83.0,21.42014525217365,123.0,2024-01-16,Tuesday,12,Afternoon,1777.872055930413,South Point → West End,False
+TRAM,Central,West End,2024-01-01 12:13:00,60.0,15.49507982920125,147.0,2024-01-16,Tuesday,12,Afternoon,929.704789752075,Central → West End,False
+FERRY,Downtown,Downtown,2024-01-01 12:14:00,44.0,16.60210913414004,23.0,2024-01-16,Tuesday,12,Afternoon,730.4928019021618,Downtown → Downtown,False
+FERRY,West End,Central,2024-01-01 12:15:00,11.0,35.77475598837638,67.0,2024-01-16,Tuesday,12,Afternoon,393.52231587214015,West End → Central,False
+BUS,Central,North Station,2024-01-01 12:16:00,66.0,40.93058359202898,167.0,2024-01-16,Tuesday,12,Afternoon,2701.418517073913,Central → North Station,False
+BUS,North Station,Downtown,2024-01-01 12:17:00,47.0,25.403856477451566,85.0,2024-01-16,Tuesday,12,Afternoon,1193.9812544402237,North Station → Downtown,False
+TRAM, Central ,North Station,2024-01-01 12:18:00,73.0,18.86157990380938,167.0,2024-01-16,Tuesday,12,Afternoon,1376.8953329780845, Central  → North Station,False
+FERRY,Central,Central,2024-01-01 12:19:00,85.0,45.14603973908293,151.0,2024-01-16,Tuesday,12,Afternoon,3837.413377822049,Central → Central,False
+FERRY,West End,airport,2024-01-01 12:20:00,88.0,40.43132922488959,152.0,2024-01-16,Tuesday,12,Afternoon,3557.9569717902837,West End → airport,False
+TRAIN,North Station,Airport,2024-01-01 12:21:00,98.0,49.25049093674255,104.0,2024-01-16,Tuesday,12,Afternoon,4826.54811180077,North Station → Airport,False
+FERRY,Airport,Central,2024-01-01 12:22:00,86.0,37.835288854263,167.0,2024-01-16,Tuesday,12,Afternoon,3253.834841466618,Airport → Central,False
+TRAIN,West End,Downtown,2024-01-01 12:23:00,3.0,19.96316245088215,164.0,2024-01-16,Tuesday,12,Afternoon,59.889487352646455,West End → Downtown,False
+TRAIN,West End,airport,2024-01-01 12:24:00,48.0,25.403856477451566,126.0,2024-01-17,Wednesday,12,Afternoon,1219.385110917675,West End → airport,False
+TRAIN,North Station,South Point,2024-01-01 12:25:00,92.0,33.22020558524235,48.0,2024-01-17,Wednesday,12,Afternoon,3056.258913842296,North Station → South Point,False
+TRAIN,West End,West End,2024-01-01 12:26:00,30.0,4.383562907697636,108.0,2024-01-17,Wednesday,12,Afternoon,131.50688723092907,West End → West End,False
+TRAIN,North Station,Downtown,2024-01-01 12:27:00,90.0,27.45259947564132,156.0,2024-01-17,Wednesday,12,Afternoon,2470.733952807719,North Station → Downtown,False
+FERRY,Central,North Station,2024-01-01 12:28:00,21.0,35.61138100939417,65.0,2024-01-17,Wednesday,12,Afternoon,747.8390011972776,Central → North Station,False
+FERRY,North Station,South Point,2024-01-01 12:29:00,28.0,8.782404548052488,129.0,2024-01-17,Wednesday,12,Afternoon,245.90732734546967,North Station → South Point,False
+TRAIN,North Station,Downtown,2024-01-01 12:30:00,48.0,39.14127001256508,149.0,2024-01-17,Wednesday,12,Afternoon,1878.7809606031237,North Station → Downtown,False
+FERRY,South Point,Central,2024-01-01 12:31:00,62.0,29.39675263544853,75.0,2024-01-17,Wednesday,12,Afternoon,1822.5986633978089,South Point → Central,False
+FERRY,North Station,Central,2024-01-01 12:32:00,33.0,47.63497839203094,111.0,2024-01-17,Wednesday,12,Afternoon,1571.954286937021,North Station → Central,False
+TRAIN,North Station,Central,2024-01-01 12:33:00,48.0,2.599903761241139,54.0,2024-01-17,Wednesday,12,Afternoon,124.79538053957467,North Station → Central,False
+BUS,Airport,Central,2024-01-01 12:34:00,35.0,13.63364380899561,69.0,2024-01-17,Wednesday,12,Afternoon,477.1775333148463,Airport → Central,False
+TRAIN,Central,North Station,2024-01-01 12:35:00,52.0,30.27691702534129,103.0,2024-01-17,Wednesday,12,Afternoon,1574.399685317747,Central → North Station,False
+BUS,South Point,South Point,2024-01-01 12:36:00,34.0,15.17971565419357,36.0,2024-01-17,Wednesday,12,Afternoon,516.1103322425814,South Point → South Point,False
+TRAM,Airport,Airport,2024-01-01 12:37:00,41.0,35.86399612152649,168.0,2024-01-17,Wednesday,12,Afternoon,1470.4238409825862,Airport → Airport,False
+FERRY,Downtown,West End,2024-01-01 12:38:00,51.0,38.07076148483559,145.0,2024-01-17,Wednesday,12,Afternoon,1941.6088357266153,Downtown → West End,False
+BUS,Central,North Station,2024-01-01 12:39:00,48.0,5.574540221290485,62.0,2024-01-17,Wednesday,12,Afternoon,267.5779306219433,Central → North Station,False
+BUS,Central,North Station,2024-01-01 12:40:00,82.0,25.935795978235,132.0,2024-01-17,Wednesday,12,Afternoon,2126.73527021527,Central → North Station,False
+TRAM,Downtown,Airport,2024-01-01 12:41:00,58.0,25.69008250175727,146.0,2024-01-17,Wednesday,12,Afternoon,1490.0247851019217,Downtown → Airport,False
+BUS,North Station,Airport,2024-01-01 12:42:00,75.0,18.77939812566928,169.0,2024-01-17,Wednesday,12,Afternoon,1408.4548594251962,North Station → Airport,False
+BUS,Airport,West End,2024-01-01 12:43:00,57.0,46.67978069719877,116.0,2024-01-17,Wednesday,12,Afternoon,2660.74749974033,Airport → West End,False
+TRAM,West End,West End,2024-01-01 12:44:00,23.0,41.46156283372445,72.0,2024-01-17,Wednesday,12,Afternoon,953.6159451756623,West End → West End,False
+FERRY,South Point,airport,2024-01-01 12:45:00,48.0,35.01186440452702,44.0,2024-01-17,Wednesday,12,Afternoon,1680.5694914172968,South Point → airport,False
+BUS,West End,Central,2024-01-01 12:46:00,22.0,35.85916846888238,148.0,2024-01-17,Wednesday,12,Afternoon,788.9017063154124,West End → Central,False
+BUS,Downtown,North Station,2024-01-01 12:47:00,17.0,23.3549491187494,136.0,2024-01-17,Wednesday,12,Afternoon,397.0341350187398,Downtown → North Station,False
+TRAM,Central,Downtown,2024-01-01 12:48:00,69.0,46.08922879428051,97.5,2024-01-18,Thursday,12,Afternoon,3180.1567868053553,Central → Downtown,False
+TRAM,Central,airport,2024-01-01 12:49:00,11.0,34.88247364903763,94.0,2024-01-18,Thursday,12,Afternoon,383.7072101394139,Central → airport,False
+TRAIN,South Point,West End,2024-01-01 12:50:00,48.0,36.58456255196291,32.0,2024-01-18,Thursday,12,Afternoon,1756.0590024942198,South Point → West End,False
+BUS,Central,Airport,2024-01-01 12:51:00,15.0,43.15369973747359,100.0,2024-01-18,Thursday,12,Afternoon,647.3054960621038,Central → Airport,False
+TRAIN, Central ,South Point,2024-01-01 12:52:00,48.0,14.06654367243845,35.0,2024-01-18,Thursday,12,Afternoon,675.1940962770456, Central  → South Point,False
+FERRY,South Point,Downtown,2024-01-01 12:53:00,35.0,25.403856477451566,7.0,2024-01-18,Thursday,12,Afternoon,889.1349767108048,South Point → Downtown,False
+TRAIN,Airport,Downtown,2024-01-01 12:54:00,33.0,10.16440984634636,140.0,2024-01-18,Thursday,12,Afternoon,335.42552492942986,Airport → Downtown,False
+FERRY,Airport,West End,2024-01-01 12:55:00,84.0,17.59442663612195,28.0,2024-01-18,Thursday,12,Afternoon,1477.9318374342436,Airport → West End,False
+TRAM,South Point,Central,2024-01-01 12:56:00,48.0,25.403856477451566,97.5,2024-01-18,Thursday,12,Afternoon,1219.385110917675,South Point → Central,False
+BUS, Central ,airport,2024-01-01 12:57:00,48.0,48.93701068526246,175.0,2024-01-18,Thursday,12,Afternoon,2348.976512892598, Central  → airport,False
+BUS,Central,Downtown,2024-01-01 12:58:00,66.0,42.89859257552238,163.0,2024-01-18,Thursday,12,Afternoon,2831.307109984477,Central → Downtown,False
+BUS,Central,airport,2024-01-01 12:59:00,99.0,35.20790814871786,49.0,2024-01-18,Thursday,12,Afternoon,3485.5829067230684,Central → airport,False
+BUS,Downtown,Downtown,2024-01-01 13:00:00,40.0,36.48930969996181,12.0,2024-01-18,Thursday,13,Afternoon,1459.5723879984723,Downtown → Downtown,False
+TRAIN,Airport,South Point,2024-01-01 13:01:00,28.0,28.32260332292727,75.0,2024-01-18,Thursday,13,Afternoon,793.0328930419636,Airport → South Point,False
+BUS,North Station,South Point,2024-01-01 13:02:00,47.0,47.38098802187169,112.0,2024-01-18,Thursday,13,Afternoon,2226.9064370279693,North Station → South Point,False
+FERRY,North Station,North Station,2024-01-01 13:03:00,39.0,25.0648082676769,119.0,2024-01-18,Thursday,13,Afternoon,977.527522439399,North Station → North Station,False
+FERRY,North Station,Airport,2024-01-01 13:04:00,70.0,19.33562663855978,107.0,2024-01-18,Thursday,13,Afternoon,1353.4938646991845,North Station → Airport,False
+TRAM,Airport,Airport,2024-01-01 13:05:00,73.0,8.570249178113755,97.5,2024-01-18,Thursday,13,Afternoon,625.6281900023041,Airport → Airport,False
+BUS,Airport,West End,2024-01-01 13:06:00,20.0,25.403856477451566,61.0,2024-01-18,Thursday,13,Afternoon,508.0771295490313,Airport → West End,False
+TRAM,Downtown,South Point,2024-01-01 13:07:00,1.0,36.85497463774178,34.0,2024-01-18,Thursday,13,Afternoon,36.85497463774178,Downtown → South Point,False
+FERRY,Central,North Station,2024-01-01 13:08:00,72.0,19.52557440694468,150.0,2024-01-18,Thursday,13,Afternoon,1405.841357300017,Central → North Station,False
+BUS,Downtown,North Station,2024-01-01 13:09:00,87.0,1.747073990981853,118.0,2024-01-18,Thursday,13,Afternoon,151.9954372154212,Downtown → North Station,False
+BUS,Downtown,Downtown,2024-01-01 13:10:00,63.0,25.403856477451566,121.0,2024-01-18,Thursday,13,Afternoon,1600.4429580794485,Downtown → Downtown,False
+BUS,Airport,Downtown,2024-01-01 13:11:00,67.0,1.065190180976645,171.0,2024-01-18,Thursday,13,Afternoon,71.36774212543521,Airport → Downtown,False
+BUS,North Station,North Station,2024-01-01 13:12:00,4.0,35.33313909163802,64.0,2024-01-19,Friday,13,Afternoon,141.33255636655207,North Station → North Station,False
+FERRY,West End,Downtown,2024-01-01 13:13:00,58.0,48.52772693143982,102.0,2024-01-19,Friday,13,Afternoon,2814.6081620235095,West End → Downtown,False
+TRAIN,Central,South Point,2024-01-01 13:14:00,25.0,22.16423574333607,175.0,2024-01-19,Friday,13,Afternoon,554.1058935834018,Central → South Point,False
+BUS,Airport,Central,2024-01-01 13:15:00,47.0,12.13118354729966,130.0,2024-01-19,Friday,13,Afternoon,570.165626723084,Airport → Central,False
+TRAIN,North Station,South Point,2024-01-01 13:16:00,38.0,25.403856477451566,177.0,2024-01-19,Friday,13,Afternoon,965.3465461431595,North Station → South Point,False
+FERRY,West End,North Station,2024-01-01 13:17:00,15.0,40.94784302977146,155.0,2024-01-19,Friday,13,Afternoon,614.217645446572,West End → North Station,False
+TRAIN,West End,North Station,2024-01-01 13:18:00,63.0,27.54830064585344,98.0,2024-01-19,Friday,13,Afternoon,1735.5429406887667,West End → North Station,False
+TRAIN,Airport,airport,2024-01-01 13:19:00,21.0,48.36824612517923,138.0,2024-01-19,Friday,13,Afternoon,1015.7331686287639,Airport → airport,False
+FERRY,South Point,Downtown,2024-01-01 13:20:00,99.0,3.057601722069075,126.0,2024-01-19,Friday,13,Afternoon,302.7025704848384,South Point → Downtown,False
+TRAIN,Central,Downtown,2024-01-01 13:21:00,57.0,25.48738211607414,97.5,2024-01-19,Friday,13,Afternoon,1452.780780616226,Central → Downtown,False
+TRAIN,West End,Airport,2024-01-01 13:22:00,53.0,36.06347039246623,8.0,2024-01-19,Friday,13,Afternoon,1911.36393080071,West End → Airport,False
+FERRY, Central ,North Station,2024-01-01 13:23:00,46.0,43.20070332188436,97.0,2024-01-19,Friday,13,Afternoon,1987.2323528066806, Central  → North Station,False
+TRAIN,Airport,West End,2024-01-01 13:24:00,48.0,9.373152789435608,155.0,2024-01-19,Friday,13,Afternoon,449.91133389290917,Airport → West End,False
+FERRY,North Station,Airport,2024-01-01 13:25:00,76.0,40.10017234730223,10.0,2024-01-19,Friday,13,Afternoon,3047.6130983949693,North Station → Airport,False
+TRAIN,South Point,Downtown,2024-01-01 13:26:00,17.0,27.85900024806799,36.0,2024-01-19,Friday,13,Afternoon,473.60300421715584,South Point → Downtown,False
+FERRY,Central,South Point,2024-01-01 13:27:00,39.0,20.12940725850318,110.0,2024-01-19,Friday,13,Afternoon,785.046883081624,Central → South Point,False
+FERRY,Downtown,Downtown,2024-01-01 13:28:00,48.0,7.019893914665131,150.0,2024-01-19,Friday,13,Afternoon,336.95490790392626,Downtown → Downtown,False
+TRAIN,North Station,airport,2024-01-01 13:29:00,99.0,43.33214006599116,19.0,2024-01-19,Friday,13,Afternoon,4289.881866533125,North Station → airport,False
+TRAIN, Central ,Airport,2024-01-01 13:30:00,77.0,25.403856477451566,172.0,2024-01-19,Friday,13,Afternoon,1956.0969487637706, Central  → Airport,False
+BUS,West End,North Station,2024-01-01 13:31:00,79.0,15.83449903085041,126.0,2024-01-19,Friday,13,Afternoon,1250.9254234371824,West End → North Station,False
+BUS,North Station,Downtown,2024-01-01 13:32:00,82.0,14.85725383214062,100.0,2024-01-19,Friday,13,Afternoon,1218.2948142355308,North Station → Downtown,False
+BUS,Airport,South Point,2024-01-01 13:33:00,97.0,43.63499469244729,10.0,2024-01-19,Friday,13,Afternoon,4232.594485167388,Airport → South Point,False
+BUS,West End,North Station,2024-01-01 13:34:00,6.0,33.79879821334045,116.0,2024-01-19,Friday,13,Afternoon,202.79278928004268,West End → North Station,False
+BUS,South Point,West End,2024-01-01 13:35:00,91.0,39.93572916097293,124.0,2024-01-19,Friday,13,Afternoon,3634.1513536485368,South Point → West End,False
+TRAIN,Central,South Point,2024-01-01 13:36:00,23.0,12.8981609902287,127.0,2024-01-20,Saturday,13,Afternoon,296.6577027752601,Central → South Point,True
+FERRY,South Point,Airport,2024-01-01 13:37:00,48.0,31.43126793054645,71.0,2024-01-20,Saturday,13,Afternoon,1508.7008606662296,South Point → Airport,True
+BUS,West End,West End,2024-01-01 13:38:00,91.0,25.403856477451566,110.0,2024-01-20,Saturday,13,Afternoon,2311.7509394480926,West End → West End,True
+TRAIN,Downtown,West End,2024-01-01 13:39:00,98.0,41.72510365101942,97.5,2024-01-20,Saturday,13,Afternoon,4089.0601577999028,Downtown → West End,True
+FERRY,Central,Central,2024-01-01 13:40:00,46.0,45.3513094938224,47.0,2024-01-20,Saturday,13,Afternoon,2086.1602367158303,Central → Central,True
+TRAIN,Central,Downtown,2024-01-01 13:41:00,38.0,1.101760188130647,149.0,2024-01-20,Saturday,13,Afternoon,41.86688714896458,Central → Downtown,True
+FERRY,North Station,South Point,2024-01-01 13:42:00,14.0,33.86398599341024,100.0,2024-01-20,Saturday,13,Afternoon,474.09580390774335,North Station → South Point,True
+TRAIN,North Station,West End,2024-01-01 13:43:00,72.0,3.065872056426587,136.0,2024-01-20,Saturday,13,Afternoon,220.74278806271428,North Station → West End,True
+BUS,Downtown,Central,2024-01-01 13:44:00,62.0,27.66850392132912,85.0,2024-01-20,Saturday,13,Afternoon,1715.4472431224053,Downtown → Central,True
+BUS,Airport,Airport,2024-01-01 13:45:00,48.0,14.73782008766207,45.0,2024-01-20,Saturday,13,Afternoon,707.4153642077794,Airport → Airport,True
+TRAM,Central,North Station,2024-01-01 13:46:00,19.0,15.68544167634599,97.5,2024-01-20,Saturday,13,Afternoon,298.02339185057383,Central → North Station,True
+TRAIN,Downtown,South Point,2024-01-01 13:47:00,48.0,17.97144592089165,164.0,2024-01-20,Saturday,13,Afternoon,862.6294042027992,Downtown → South Point,True
+FERRY,North Station,West End,2024-01-01 13:48:00,78.0,31.2539762279557,39.0,2024-01-20,Saturday,13,Afternoon,2437.8101457805446,North Station → West End,True
+BUS,North Station,Downtown,2024-01-01 13:49:00,84.0,25.403856477451566,26.0,2024-01-20,Saturday,13,Afternoon,2133.9239441059317,North Station → Downtown,True
+TRAM,Central,Central,2024-01-01 13:50:00,25.0,36.76860300421888,154.0,2024-01-20,Saturday,13,Afternoon,919.215075105472,Central → Central,True
+BUS,South Point,West End,2024-01-01 13:51:00,40.0,20.52410558590655,116.0,2024-01-20,Saturday,13,Afternoon,820.964223436262,South Point → West End,True
+TRAM, Central ,Downtown,2024-01-01 13:52:00,48.0,3.883483415342952,15.0,2024-01-20,Saturday,13,Afternoon,186.4072039364617, Central  → Downtown,True
+BUS,North Station,West End,2024-01-01 13:53:00,14.0,39.29611220296331,7.0,2024-01-20,Saturday,13,Afternoon,550.1455708414863,North Station → West End,True
+TRAIN,Airport,South Point,2024-01-01 13:54:00,26.0,14.64503706733895,141.0,2024-01-20,Saturday,13,Afternoon,380.7709637508127,Airport → South Point,True
+TRAIN,Airport,South Point,2024-01-01 13:55:00,87.0,25.403856477451566,97.5,2024-01-20,Saturday,13,Afternoon,2210.1355135382864,Airport → South Point,True
+TRAM,North Station,South Point,2024-01-01 13:56:00,22.0,34.42947221948413,80.0,2024-01-20,Saturday,13,Afternoon,757.4483888286509,North Station → South Point,True
+FERRY,South Point,Airport,2024-01-01 13:57:00,48.0,16.95657977886124,91.0,2024-01-20,Saturday,13,Afternoon,813.9158293853395,South Point → Airport,True
+FERRY,South Point,Airport,2024-01-01 13:58:00,83.0,3.300989979262424,18.0,2024-01-20,Saturday,13,Afternoon,273.9821682787812,South Point → Airport,True
+FERRY,Downtown,Central,2024-01-01 13:59:00,51.0,19.00909182713427,22.0,2024-01-20,Saturday,13,Afternoon,969.4636831838478,Downtown → Central,True
+TRAM,Airport,South Point,2024-01-01 14:00:00,48.0,47.25020484336802,117.0,2024-01-21,Sunday,14,Afternoon,2268.009832481665,Airport → South Point,True
+TRAIN,Downtown,Downtown,2024-01-01 14:01:00,42.0,32.26585266627863,77.0,2024-01-21,Sunday,14,Afternoon,1355.1658119837025,Downtown → Downtown,True
+TRAIN,Airport,West End,2024-01-01 14:02:00,19.0,33.73821785902674,27.0,2024-01-21,Sunday,14,Afternoon,641.026139321508,Airport → West End,True
+FERRY,West End,North Station,2024-01-01 14:03:00,73.0,31.79796660506317,87.0,2024-01-21,Sunday,14,Afternoon,2321.2515621696116,West End → North Station,True
+BUS,West End,Downtown,2024-01-01 14:04:00,28.0,10.35011087849212,129.0,2024-01-21,Sunday,14,Afternoon,289.8031045977794,West End → Downtown,True
+TRAIN,Central,Airport,2024-01-01 14:05:00,84.0,21.20752627306287,179.0,2024-01-21,Sunday,14,Afternoon,1781.4322069372813,Central → Airport,True
+FERRY,Downtown,Airport,2024-01-01 14:06:00,45.0,37.67152001898425,73.0,2024-01-21,Sunday,14,Afternoon,1695.2184008542913,Downtown → Airport,True
+BUS,North Station,Downtown,2024-01-01 14:07:00,48.0,5.517958428881378,51.0,2024-01-21,Sunday,14,Afternoon,264.8620045863061,North Station → Downtown,True
+TRAIN,Downtown,Airport,2024-01-01 14:08:00,78.0,14.25371241644076,120.0,2024-01-21,Sunday,14,Afternoon,1111.7895684823793,Downtown → Airport,True
+FERRY,North Station,South Point,2024-01-01 14:09:00,48.0,14.17779586905975,34.0,2024-01-21,Sunday,14,Afternoon,680.534201714868,North Station → South Point,True
+TRAIN,South Point,Central,2024-01-01 14:10:00,73.0,21.88493691592805,29.0,2024-01-21,Sunday,14,Afternoon,1597.6003948627476,South Point → Central,True
+BUS,Downtown,airport,2024-01-01 14:11:00,48.0,49.02825267663816,160.0,2024-01-21,Sunday,14,Afternoon,2353.356128478632,Downtown → airport,True
+TRAIN,South Point,Central,2024-01-01 14:12:00,47.0,25.403856477451566,116.0,2024-01-21,Sunday,14,Afternoon,1193.9812544402237,South Point → Central,True
+TRAIN,West End,West End,2024-01-01 14:13:00,14.0,25.403856477451566,29.0,2024-01-21,Sunday,14,Afternoon,355.6539906843219,West End → West End,True
+TRAIN,West End,West End,2024-01-01 14:14:00,48.0,9.378551759604417,78.0,2024-01-21,Sunday,14,Afternoon,450.170484461012,West End → West End,True
+TRAIN, Central ,Central,2024-01-01 14:15:00,53.0,48.54848899778234,62.0,2024-01-21,Sunday,14,Afternoon,2573.069916882464, Central  → Central,True
+BUS,Downtown,Downtown,2024-01-01 14:16:00,61.0,6.108523484009478,98.0,2024-01-21,Sunday,14,Afternoon,372.61993252457813,Downtown → Downtown,True
+TRAM,South Point,West End,2024-01-01 14:17:00,36.0,20.47824961689876,123.0,2024-01-21,Sunday,14,Afternoon,737.2169862083554,South Point → West End,True
+TRAIN,North Station,Central,2024-01-01 14:18:00,48.0,37.025306749313,131.0,2024-01-21,Sunday,14,Afternoon,1777.2147239670242,North Station → Central,True
+TRAIN,West End,West End,2024-01-01 14:19:00,48.0,35.37544418735854,173.0,2024-01-21,Sunday,14,Afternoon,1698.0213209932099,West End → West End,True
+FERRY,West End,North Station,2024-01-01 14:20:00,48.0,21.42506752624965,29.0,2024-01-21,Sunday,14,Afternoon,1028.4032412599831,West End → North Station,True
+TRAIN,North Station,Downtown,2024-01-01 14:21:00,9.0,17.65294631365955,82.0,2024-01-21,Sunday,14,Afternoon,158.87651682293597,North Station → Downtown,True
+FERRY,South Point,South Point,2024-01-01 14:22:00,64.0,20.18181273836709,103.0,2024-01-21,Sunday,14,Afternoon,1291.6360152554937,South Point → South Point,True
+TRAM, Central ,West End,2024-01-01 14:23:00,48.0,13.58167502635265,120.0,2024-01-21,Sunday,14,Afternoon,651.9204012649272, Central  → West End,True
+BUS,Downtown,North Station,2024-01-01 14:24:00,52.0,10.66398046598659,52.0,2024-01-22,Monday,14,Afternoon,554.5269842313027,Downtown → North Station,False
+BUS,Downtown,South Point,2024-01-01 14:25:00,89.0,24.41046502916505,97.5,2024-01-22,Monday,14,Afternoon,2172.5313875956895,Downtown → South Point,False
+BUS,Airport,South Point,2024-01-01 14:26:00,14.0,13.79242092534656,103.0,2024-01-22,Monday,14,Afternoon,193.09389295485184,Airport → South Point,False
+TRAM,Airport,airport,2024-01-01 14:27:00,75.0,14.72935241241388,15.0,2024-01-22,Monday,14,Afternoon,1104.701430931041,Airport → airport,False
+TRAM,Central,Central,2024-01-01 14:28:00,53.0,33.00942514199058,89.0,2024-01-22,Monday,14,Afternoon,1749.4995325255009,Central → Central,False
+TRAM,West End,West End,2024-01-01 14:29:00,48.0,25.403856477451566,153.0,2024-01-22,Monday,14,Afternoon,1219.385110917675,West End → West End,False
+BUS,Downtown,North Station,2024-01-01 14:30:00,48.0,30.38004142768907,177.0,2024-01-22,Monday,14,Afternoon,1458.2419885290753,Downtown → North Station,False
+FERRY,South Point,South Point,2024-01-01 14:31:00,78.0,4.31048361971583,139.0,2024-01-22,Monday,14,Afternoon,336.21772233783474,South Point → South Point,False
+TRAM,North Station,West End,2024-01-01 14:32:00,94.0,4.241388885776315,97.5,2024-01-22,Monday,14,Afternoon,398.69055526297365,North Station → West End,False
+TRAIN,South Point,Central,2024-01-01 14:33:00,41.0,47.59544943185551,68.0,2024-01-22,Monday,14,Afternoon,1951.413426706076,South Point → Central,False
+BUS, Central ,West End,2024-01-01 14:34:00,68.0,15.21589412021302,97.5,2024-01-22,Monday,14,Afternoon,1034.6808001744853, Central  → West End,False
+FERRY,Airport,Downtown,2024-01-01 14:35:00,68.0,25.403856477451566,97.5,2024-01-22,Monday,14,Afternoon,1727.4622404667064,Airport → Downtown,False
+TRAIN, Central ,Central,2024-01-01 14:36:00,92.0,30.15270706394389,125.0,2024-01-22,Monday,14,Afternoon,2774.049049882838, Central  → Central,False
+FERRY,Central,North Station,2024-01-01 14:37:00,8.0,31.37061452536817,46.0,2024-01-22,Monday,14,Afternoon,250.96491620294535,Central → North Station,False
+FERRY,West End,South Point,2024-01-01 14:38:00,48.0,32.60098859587507,58.0,2024-01-22,Monday,14,Afternoon,1564.8474526020036,West End → South Point,False
+FERRY,Airport,West End,2024-01-01 14:39:00,86.0,13.73640037894829,79.0,2024-01-22,Monday,14,Afternoon,1181.3304325895529,Airport → West End,False
+TRAM,North Station,Central,2024-01-01 14:40:00,41.0,1.247978868616514,97.5,2024-01-22,Monday,14,Afternoon,51.16713361327708,North Station → Central,False
+BUS,Airport,Downtown,2024-01-01 14:41:00,55.0,48.26826078799635,22.0,2024-01-22,Monday,14,Afternoon,2654.754343339799,Airport → Downtown,False
+BUS, Central ,Central,2024-01-01 14:42:00,16.0,12.91920576170957,94.0,2024-01-22,Monday,14,Afternoon,206.70729218735312, Central  → Central,False
+TRAM,West End,airport,2024-01-01 14:43:00,93.0,33.9633012586011,148.0,2024-01-22,Monday,14,Afternoon,3158.5870170499024,West End → airport,False
+TRAIN,North Station,Downtown,2024-01-01 14:44:00,62.0,35.47817855899612,10.0,2024-01-22,Monday,14,Afternoon,2199.6470706577593,North Station → Downtown,False
+TRAIN,Central,North Station,2024-01-01 14:45:00,48.0,30.69536714543454,112.0,2024-01-22,Monday,14,Afternoon,1473.3776229808577,Central → North Station,False
+FERRY,Airport,South Point,2024-01-01 14:46:00,30.0,15.98891601357559,179.0,2024-01-22,Monday,14,Afternoon,479.6674804072677,Airport → South Point,False
+BUS, Central ,North Station,2024-01-01 14:47:00,12.0,13.91926456132126,52.0,2024-01-22,Monday,14,Afternoon,167.03117473585513, Central  → North Station,False
+FERRY,West End,West End,2024-01-01 14:48:00,35.0,30.08457999378381,97.5,2024-01-23,Tuesday,14,Afternoon,1052.9602997824334,West End → West End,False
+FERRY,Downtown,Central,2024-01-01 14:49:00,11.0,43.37173386377873,80.0,2024-01-23,Tuesday,14,Afternoon,477.089072501566,Downtown → Central,False
+TRAM,Central,Airport,2024-01-01 14:50:00,64.0,47.36331958170808,81.0,2024-01-23,Tuesday,14,Afternoon,3031.2524532293173,Central → Airport,False
+TRAIN,Central,Downtown,2024-01-01 14:51:00,48.0,5.742337317986003,136.0,2024-01-23,Tuesday,14,Afternoon,275.63219126332814,Central → Downtown,False
+FERRY,Airport,Downtown,2024-01-01 14:52:00,85.0,8.164016323587132,134.0,2024-01-23,Tuesday,14,Afternoon,693.9413875049063,Airport → Downtown,False
+TRAIN,Airport,Central,2024-01-01 14:53:00,21.0,47.26444480976244,63.0,2024-01-23,Tuesday,14,Afternoon,992.5533410050111,Airport → Central,False
+BUS,North Station,Airport,2024-01-01 14:54:00,69.0,36.95849380257224,159.0,2024-01-23,Tuesday,14,Afternoon,2550.1360723774847,North Station → Airport,False
+TRAIN,Airport,Central,2024-01-01 14:55:00,48.0,44.20819432907377,31.0,2024-01-23,Tuesday,14,Afternoon,2121.993327795541,Airport → Central,False
+BUS,South Point,West End,2024-01-01 14:56:00,20.0,10.53031538969949,83.0,2024-01-23,Tuesday,14,Afternoon,210.6063077939898,South Point → West End,False
+TRAIN,West End,North Station,2024-01-01 14:57:00,67.0,29.58550061991539,76.0,2024-01-23,Tuesday,14,Afternoon,1982.228541534331,West End → North Station,False
+FERRY,West End,Downtown,2024-01-01 14:58:00,44.0,25.403856477451566,11.0,2024-01-23,Tuesday,14,Afternoon,1117.769685007869,West End → Downtown,False
+BUS,Downtown,West End,2024-01-01 14:59:00,48.0,34.16553832962514,115.0,2024-01-23,Tuesday,14,Afternoon,1639.9458398220067,Downtown → West End,False
+BUS,Downtown,North Station,2024-01-01 15:00:00,73.0,20.70350869790156,123.0,2024-01-23,Tuesday,15,Afternoon,1511.356134946814,Downtown → North Station,False
+TRAM,West End,West End,2024-01-01 15:01:00,61.0,1.26204713871977,178.0,2024-01-23,Tuesday,15,Afternoon,76.98487546190597,West End → West End,False
+BUS,Downtown,Airport,2024-01-01 15:02:00,9.0,29.35483981181103,67.0,2024-01-23,Tuesday,15,Afternoon,264.1935583062993,Downtown → Airport,False
+BUS,North Station,airport,2024-01-01 15:03:00,68.0,13.02852618939063,128.0,2024-01-23,Tuesday,15,Afternoon,885.9397808785628,North Station → airport,False
+TRAIN,Airport,Central,2024-01-01 15:04:00,35.0,22.78758518407307,16.0,2024-01-23,Tuesday,15,Afternoon,797.5654814425575,Airport → Central,False
+TRAIN,West End,Central,2024-01-01 15:05:00,81.0,47.90026024664895,145.0,2024-01-23,Tuesday,15,Afternoon,3879.9210799785646,West End → Central,False
+BUS,Downtown,North Station,2024-01-01 15:06:00,98.0,20.25224822330052,47.0,2024-01-23,Tuesday,15,Afternoon,1984.7203258834509,Downtown → North Station,False
+FERRY,West End,South Point,2024-01-01 15:07:00,88.0,42.07017952988912,97.5,2024-01-23,Tuesday,15,Afternoon,3702.1757986302423,West End → South Point,False
+TRAIN,South Point,Airport,2024-01-01 15:08:00,96.0,9.83275998458793,67.0,2024-01-23,Tuesday,15,Afternoon,943.9449585204413,South Point → Airport,False
+TRAIN,Central,North Station,2024-01-01 15:09:00,65.0,33.78679465223892,124.0,2024-01-23,Tuesday,15,Afternoon,2196.1416523955295,Central → North Station,False
+TRAIN,Airport,South Point,2024-01-01 15:10:00,48.0,48.8618442447277,40.0,2024-01-23,Tuesday,15,Afternoon,2345.3685237469294,Airport → South Point,False
+BUS,West End,West End,2024-01-01 15:11:00,48.0,5.543708493210371,12.0,2024-01-23,Tuesday,15,Afternoon,266.0980076740978,West End → West End,False
+BUS,Central,Airport,2024-01-01 15:12:00,87.0,0.9118371402460046,73.0,2024-01-24,Wednesday,15,Afternoon,79.3298312014024,Central → Airport,False
+BUS,Downtown,West End,2024-01-01 15:13:00,47.0,21.96234823531441,94.0,2024-01-24,Wednesday,15,Afternoon,1032.230367059777,Downtown → West End,False
+BUS,Central,Downtown,2024-01-01 15:14:00,40.0,25.403856477451566,40.0,2024-01-24,Wednesday,15,Afternoon,1016.1542590980627,Central → Downtown,False
+BUS,Airport,Airport,2024-01-01 15:15:00,76.0,37.54502530897345,32.0,2024-01-24,Wednesday,15,Afternoon,2853.421923481982,Airport → Airport,False
+FERRY,West End,South Point,2024-01-01 15:16:00,54.0,45.77015886050367,122.0,2024-01-24,Wednesday,15,Afternoon,2471.588578467198,West End → South Point,False
+FERRY, Central ,Downtown,2024-01-01 15:17:00,76.0,21.98403814908356,97.0,2024-01-24,Wednesday,15,Afternoon,1670.7868993303505, Central  → Downtown,False
+BUS,Downtown,Central,2024-01-01 15:18:00,46.0,13.30622628669433,179.0,2024-01-24,Wednesday,15,Afternoon,612.0864091879391,Downtown → Central,False
+TRAIN,West End,South Point,2024-01-01 15:19:00,47.0,25.403856477451566,80.0,2024-01-24,Wednesday,15,Afternoon,1193.9812544402237,West End → South Point,False
+BUS,Airport,North Station,2024-01-01 15:20:00,15.0,36.31066698357505,105.0,2024-01-24,Wednesday,15,Afternoon,544.6600047536257,Airport → North Station,False
+FERRY,Downtown,Central,2024-01-01 15:21:00,48.0,0.9481809982283634,162.0,2024-01-24,Wednesday,15,Afternoon,45.51268791496145,Downtown → Central,False
+BUS,North Station,Central,2024-01-01 15:22:00,26.0,29.67797247949251,155.0,2024-01-24,Wednesday,15,Afternoon,771.6272844668052,North Station → Central,False
+FERRY,Central,North Station,2024-01-01 15:23:00,52.0,25.403856477451566,148.0,2024-01-24,Wednesday,15,Afternoon,1321.0005368274815,Central → North Station,False
+TRAIN,Airport,Airport,2024-01-01 15:24:00,93.0,32.06556822134881,18.0,2024-01-24,Wednesday,15,Afternoon,2982.0978445854394,Airport → Airport,False
+FERRY, Central ,Central,2024-01-01 15:25:00,22.0,12.48009295905342,75.0,2024-01-24,Wednesday,15,Afternoon,274.56204509917524, Central  → Central,False
+BUS,West End,South Point,2024-01-01 15:26:00,21.0,35.84560980721727,128.0,2024-01-24,Wednesday,15,Afternoon,752.7578059515627,West End → South Point,False
+TRAIN,South Point,Downtown,2024-01-01 15:27:00,48.0,25.403856477451566,129.0,2024-01-24,Wednesday,15,Afternoon,1219.385110917675,South Point → Downtown,False
+BUS,Downtown,Central,2024-01-01 15:28:00,38.0,10.36388165510664,41.0,2024-01-24,Wednesday,15,Afternoon,393.8275028940523,Downtown → Central,False
+BUS,Central,South Point,2024-01-01 15:29:00,20.0,43.93476730939685,33.0,2024-01-24,Wednesday,15,Afternoon,878.6953461879369,Central → South Point,False
+TRAIN,Downtown,West End,2024-01-01 15:30:00,29.0,37.06679596096504,147.0,2024-01-24,Wednesday,15,Afternoon,1074.9370828679862,Downtown → West End,False
+TRAM,West End,South Point,2024-01-01 15:31:00,51.0,1.18040492356159,179.0,2024-01-24,Wednesday,15,Afternoon,60.20065110164109,West End → South Point,False
+BUS,Downtown,Downtown,2024-01-01 15:32:00,4.0,12.79462488830511,178.0,2024-01-24,Wednesday,15,Afternoon,51.17849955322044,Downtown → Downtown,False
+FERRY,Central,South Point,2024-01-01 15:33:00,55.0,11.11312090816165,23.0,2024-01-24,Wednesday,15,Afternoon,611.2216499488907,Central → South Point,False
+BUS,West End,North Station,2024-01-01 15:34:00,71.0,13.90491323783014,110.0,2024-01-24,Wednesday,15,Afternoon,987.2488398859399,West End → North Station,False
+TRAIN,Downtown,Downtown,2024-01-01 15:35:00,92.0,12.75420862885438,25.0,2024-01-24,Wednesday,15,Afternoon,1173.387193854603,Downtown → Downtown,False
+TRAIN,South Point,Airport,2024-01-01 15:36:00,28.0,3.595051639270864,68.0,2024-01-25,Thursday,15,Afternoon,100.6614458995842,South Point → Airport,False
+TRAIN,Airport,West End,2024-01-01 15:37:00,4.0,23.21755557154261,169.0,2024-01-25,Thursday,15,Afternoon,92.87022228617045,Airport → West End,False
+TRAM,West End,North Station,2024-01-01 15:38:00,22.0,36.77030700191517,31.0,2024-01-25,Thursday,15,Afternoon,808.9467540421338,West End → North Station,False
+BUS,Airport,Airport,2024-01-01 15:39:00,76.0,30.5332203735131,97.5,2024-01-25,Thursday,15,Afternoon,2320.5247483869957,Airport → Airport,False
+TRAM,West End,South Point,2024-01-01 15:40:00,45.0,33.80714759560495,33.0,2024-01-25,Thursday,15,Afternoon,1521.3216418022228,West End → South Point,False
+TRAIN,South Point,Downtown,2024-01-01 15:41:00,67.0,4.516884337543838,152.0,2024-01-25,Thursday,15,Afternoon,302.6312506154372,South Point → Downtown,False
+TRAIN,Airport,West End,2024-01-01 15:42:00,86.0,47.59879015375097,29.0,2024-01-25,Thursday,15,Afternoon,4093.4959532225835,Airport → West End,False
+BUS,North Station,North Station,2024-01-01 15:43:00,66.0,42.00534577522973,97.5,2024-01-25,Thursday,15,Afternoon,2772.352821165162,North Station → North Station,False
+FERRY,Central,Airport,2024-01-01 15:44:00,88.0,25.403856477451566,67.0,2024-01-25,Thursday,15,Afternoon,2235.539370015738,Central → Airport,False
+TRAM,North Station,Airport,2024-01-01 15:45:00,34.0,41.23769834956749,168.0,2024-01-25,Thursday,15,Afternoon,1402.0817438852946,North Station → Airport,False
+BUS,Downtown,West End,2024-01-01 15:46:00,91.0,46.66917015257169,134.0,2024-01-25,Thursday,15,Afternoon,4246.894483884023,Downtown → West End,False
+TRAIN,South Point,South Point,2024-01-01 15:47:00,55.0,27.44057132262803,154.0,2024-01-25,Thursday,15,Afternoon,1509.2314227445418,South Point → South Point,False
+TRAIN,North Station,West End,2024-01-01 15:48:00,1.0,10.41395988444748,20.0,2024-01-25,Thursday,15,Afternoon,10.41395988444748,North Station → West End,False
+BUS,West End,Airport,2024-01-01 15:49:00,72.0,31.03078858870079,150.0,2024-01-25,Thursday,15,Afternoon,2234.216778386457,West End → Airport,False
+FERRY,Downtown,Central,2024-01-01 15:50:00,87.0,37.27263393656298,104.0,2024-01-25,Thursday,15,Afternoon,3242.7191524809796,Downtown → Central,False
+TRAIN,Downtown,North Station,2024-01-01 15:51:00,48.0,37.02691097102426,34.0,2024-01-25,Thursday,15,Afternoon,1777.2917266091645,Downtown → North Station,False
+FERRY,North Station,West End,2024-01-01 15:52:00,6.0,25.403856477451566,49.0,2024-01-25,Thursday,15,Afternoon,152.4231388647094,North Station → West End,False
+BUS,North Station,Airport,2024-01-01 15:53:00,86.0,3.888706607012114,23.0,2024-01-25,Thursday,15,Afternoon,334.4287682030418,North Station → Airport,False
+BUS,South Point,South Point,2024-01-01 15:54:00,25.0,18.87009045229133,38.0,2024-01-25,Thursday,15,Afternoon,471.7522613072832,South Point → South Point,False
+BUS,Central,Airport,2024-01-01 15:55:00,82.0,46.07794711893619,145.0,2024-01-25,Thursday,15,Afternoon,3778.3916637527673,Central → Airport,False
+TRAIN,North Station,South Point,2024-01-01 15:56:00,48.0,29.43022103299259,175.0,2024-01-25,Thursday,15,Afternoon,1412.6506095836444,North Station → South Point,False
+TRAM,North Station,airport,2024-01-01 15:57:00,61.0,27.14743119115781,66.0,2024-01-25,Thursday,15,Afternoon,1655.9933026606263,North Station → airport,False
+FERRY,Airport,South Point,2024-01-01 15:58:00,12.0,13.80824896191858,122.0,2024-01-25,Thursday,15,Afternoon,165.69898754302295,Airport → South Point,False
+TRAIN,West End,Downtown,2024-01-01 15:59:00,6.0,18.73822153587066,104.0,2024-01-25,Thursday,15,Afternoon,112.42932921522396,West End → Downtown,False
+TRAIN, Central ,Downtown,2024-01-01 16:00:00,90.0,44.81963141308188,26.0,2024-01-26,Friday,16,Afternoon,4033.766827177369, Central  → Downtown,False
+FERRY,Airport,airport,2024-01-01 16:01:00,27.0,33.48992085257836,115.0,2024-01-26,Friday,16,Afternoon,904.2278630196157,Airport → airport,False
+TRAIN,Downtown,Central,2024-01-01 16:02:00,8.0,39.47565782424048,168.0,2024-01-26,Friday,16,Afternoon,315.8052625939238,Downtown → Central,False
+BUS,Central,West End,2024-01-01 16:03:00,83.0,22.99009844184893,77.0,2024-01-26,Friday,16,Afternoon,1908.1781706734612,Central → West End,False
+BUS,West End,Airport,2024-01-01 16:04:00,65.0,31.69723736307982,151.0,2024-01-26,Friday,16,Afternoon,2060.3204286001883,West End → Airport,False
+BUS,South Point,Airport,2024-01-01 16:05:00,57.0,12.79498863278877,42.0,2024-01-26,Friday,16,Afternoon,729.3143520689599,South Point → Airport,False
+TRAM,South Point,Central,2024-01-01 16:06:00,93.0,35.42031109903257,74.0,2024-01-26,Friday,16,Afternoon,3294.088932210029,South Point → Central,False
+FERRY,North Station,South Point,2024-01-01 16:07:00,99.0,21.66626601831519,120.0,2024-01-26,Friday,16,Afternoon,2144.960335813204,North Station → South Point,False
+TRAIN,North Station,Central,2024-01-01 16:08:00,40.0,22.40600298332991,83.0,2024-01-26,Friday,16,Afternoon,896.2401193331964,North Station → Central,False
+BUS,South Point,South Point,2024-01-01 16:09:00,14.0,25.403856477451566,152.0,2024-01-26,Friday,16,Afternoon,355.6539906843219,South Point → South Point,False
+TRAM,North Station,South Point,2024-01-01 16:10:00,35.0,46.84589076271187,13.0,2024-01-26,Friday,16,Afternoon,1639.6061766949153,North Station → South Point,False
+FERRY,Central,North Station,2024-01-01 16:11:00,48.0,3.668314157126736,36.0,2024-01-26,Friday,16,Afternoon,176.07907954208332,Central → North Station,False
+TRAM,Airport,Airport,2024-01-01 16:12:00,84.0,41.32479024867688,136.0,2024-01-26,Friday,16,Afternoon,3471.2823808888575,Airport → Airport,False
+TRAM,North Station,Downtown,2024-01-01 16:13:00,56.0,14.97296396540356,54.0,2024-01-26,Friday,16,Afternoon,838.4859820625993,North Station → Downtown,False
+TRAIN,Downtown,South Point,2024-01-01 16:14:00,49.0,22.4740129980657,97.5,2024-01-26,Friday,16,Afternoon,1101.2266369052193,Downtown → South Point,False
+FERRY, Central ,North Station,2024-01-01 16:15:00,13.0,25.403856477451566,97.5,2024-01-26,Friday,16,Afternoon,330.25013420687037, Central  → North Station,False
+TRAM,West End,Airport,2024-01-01 16:16:00,48.0,15.4017808527985,152.0,2024-01-26,Friday,16,Afternoon,739.285480934328,West End → Airport,False
+BUS,Central,Downtown,2024-01-01 16:17:00,49.0,25.38024651019146,91.0,2024-01-26,Friday,16,Afternoon,1243.6320789993815,Central → Downtown,False
+BUS,West End,South Point,2024-01-01 16:18:00,46.0,3.280715828698231,130.0,2024-01-26,Friday,16,Afternoon,150.91292812011864,West End → South Point,False
+BUS,West End,South Point,2024-01-01 16:19:00,62.0,24.80923860446667,79.0,2024-01-26,Friday,16,Afternoon,1538.1727934769335,West End → South Point,False
+FERRY,Downtown,Central,2024-01-01 16:20:00,8.0,46.39197612849215,169.0,2024-01-26,Friday,16,Afternoon,371.1358090279372,Downtown → Central,False
+FERRY,Central,Central,2024-01-01 16:21:00,43.0,5.716964296336358,26.0,2024-01-26,Friday,16,Afternoon,245.8294647424634,Central → Central,False
+BUS,Central,Airport,2024-01-01 16:22:00,48.0,38.33981603973746,97.5,2024-01-26,Friday,16,Afternoon,1840.311169907398,Central → Airport,False
+TRAM, Central ,Downtown,2024-01-01 16:23:00,97.0,25.403856477451566,48.0,2024-01-26,Friday,16,Afternoon,2464.174078312802, Central  → Downtown,False
+FERRY,Central,South Point,2024-01-01 16:24:00,90.0,32.93109886895473,97.5,2024-01-27,Saturday,16,Afternoon,2963.7988982059255,Central → South Point,True
+BUS,Central,Airport,2024-01-01 16:25:00,39.0,13.38171160026885,81.0,2024-01-27,Saturday,16,Afternoon,521.8867524104852,Central → Airport,True
+BUS,Downtown,Airport,2024-01-01 16:26:00,85.0,25.403856477451566,46.0,2024-01-27,Saturday,16,Afternoon,2159.327800583383,Downtown → Airport,True
+TRAIN, Central ,West End,2024-01-01 16:27:00,49.0,8.44289940642571,141.0,2024-01-27,Saturday,16,Afternoon,413.70207091485975, Central  → West End,True
+BUS,West End,Central,2024-01-01 16:28:00,64.0,3.98935130933566,110.0,2024-01-27,Saturday,16,Afternoon,255.31848379748223,West End → Central,True
+TRAM,Central,Downtown,2024-01-01 16:29:00,62.0,25.403856477451566,99.0,2024-01-27,Saturday,16,Afternoon,1575.0391016019971,Central → Downtown,True
+BUS,North Station,South Point,2024-01-01 16:30:00,54.0,33.37885955695393,139.0,2024-01-27,Saturday,16,Afternoon,1802.458416075512,North Station → South Point,True
+BUS,North Station,Airport,2024-01-01 16:31:00,9.0,44.14368528625365,72.0,2024-01-27,Saturday,16,Afternoon,397.2931675762828,North Station → Airport,True
+TRAM,West End,South Point,2024-01-01 16:32:00,88.0,25.403856477451566,151.0,2024-01-27,Saturday,16,Afternoon,2235.539370015738,West End → South Point,True
+BUS,Downtown,West End,2024-01-01 16:33:00,37.0,34.41414833878697,163.0,2024-01-27,Saturday,16,Afternoon,1273.323488535118,Downtown → West End,True
+TRAIN,South Point,Downtown,2024-01-01 16:34:00,49.0,5.966377238849582,132.0,2024-01-27,Saturday,16,Afternoon,292.35248470362956,South Point → Downtown,True
+BUS,South Point,Airport,2024-01-01 16:35:00,41.0,14.81477859164952,167.0,2024-01-27,Saturday,16,Afternoon,607.4059222576303,South Point → Airport,True
+BUS,North Station,South Point,2024-01-01 16:36:00,17.0,15.83544032846221,89.0,2024-01-27,Saturday,16,Afternoon,269.2024855838576,North Station → South Point,True
+BUS,Airport,Central,2024-01-01 16:37:00,88.0,12.87286884668225,163.0,2024-01-27,Saturday,16,Afternoon,1132.812458508038,Airport → Central,True
+TRAIN,Airport,West End,2024-01-01 16:38:00,21.0,25.403856477451566,87.0,2024-01-27,Saturday,16,Afternoon,533.4809860264829,Airport → West End,True
+FERRY,West End,Downtown,2024-01-01 16:39:00,51.0,27.00991383654379,99.0,2024-01-27,Saturday,16,Afternoon,1377.5056056637334,West End → Downtown,True
+FERRY,South Point,West End,2024-01-01 16:40:00,48.0,18.16585577096996,36.0,2024-01-27,Saturday,16,Afternoon,871.9610770065581,South Point → West End,True
+BUS,North Station,Central,2024-01-01 16:41:00,39.0,18.01256335745358,70.0,2024-01-27,Saturday,16,Afternoon,702.4899709406897,North Station → Central,True
+TRAIN,Downtown,Downtown,2024-01-01 16:42:00,55.0,41.51350209635103,120.0,2024-01-27,Saturday,16,Afternoon,2283.2426152993066,Downtown → Downtown,True
+BUS,South Point,West End,2024-01-01 16:43:00,41.0,39.56999599182443,142.0,2024-01-27,Saturday,16,Afternoon,1622.3698356648015,South Point → West End,True
+TRAIN,North Station,North Station,2024-01-01 16:44:00,39.0,15.73589366819691,97.5,2024-01-27,Saturday,16,Afternoon,613.6998530596795,North Station → North Station,True
+TRAIN,North Station,Central,2024-01-01 16:45:00,48.0,45.73252797172633,64.0,2024-01-27,Saturday,16,Afternoon,2195.161342642864,North Station → Central,True
+TRAIN,Central,Central,2024-01-01 16:46:00,64.0,47.66434334162405,21.0,2024-01-27,Saturday,16,Afternoon,3050.517973863939,Central → Central,True
+TRAIN,Downtown,Central,2024-01-01 16:47:00,11.0,16.67375583048702,100.0,2024-01-27,Saturday,16,Afternoon,183.41131413535723,Downtown → Central,True
+TRAIN,Central,North Station,2024-01-01 16:48:00,19.0,18.04403496525622,148.0,2024-01-28,Sunday,16,Afternoon,342.83666433986815,Central → North Station,True
+FERRY,West End,North Station,2024-01-01 16:49:00,11.0,25.52889059438696,20.0,2024-01-28,Sunday,16,Afternoon,280.8177965382566,West End → North Station,True
+BUS,Central,South Point,2024-01-01 16:50:00,77.0,47.08548022041684,50.0,2024-01-28,Sunday,16,Afternoon,3625.5819769720965,Central → South Point,True
+FERRY,Central,Airport,2024-01-01 16:51:00,46.0,43.87781194054442,171.0,2024-01-28,Sunday,16,Afternoon,2018.3793492650432,Central → Airport,True
+TRAM,South Point,West End,2024-01-01 16:52:00,45.0,5.577114147887695,163.0,2024-01-28,Sunday,16,Afternoon,250.97013665494626,South Point → West End,True
+TRAIN,Airport,South Point,2024-01-01 16:53:00,1.0,19.9401717919351,111.0,2024-01-28,Sunday,16,Afternoon,19.9401717919351,Airport → South Point,True
+BUS,North Station,West End,2024-01-01 16:54:00,40.0,25.403856477451566,92.0,2024-01-28,Sunday,16,Afternoon,1016.1542590980627,North Station → West End,True
+TRAIN,Downtown,Airport,2024-01-01 16:55:00,19.0,25.40505739130123,133.0,2024-01-28,Sunday,16,Afternoon,482.6960904347234,Downtown → Airport,True
+BUS,Central,North Station,2024-01-01 16:56:00,76.0,25.403856477451566,143.0,2024-01-28,Sunday,16,Afternoon,1930.693092286319,Central → North Station,True
+FERRY,Downtown,Airport,2024-01-01 16:57:00,72.0,43.01143017282366,123.0,2024-01-28,Sunday,16,Afternoon,3096.8229724433036,Downtown → Airport,True
+BUS,Airport,North Station,2024-01-01 16:58:00,72.0,34.00856875834345,89.0,2024-01-28,Sunday,16,Afternoon,2448.6169506007286,Airport → North Station,True
+FERRY, Central ,Airport,2024-01-01 16:59:00,48.0,41.97646455516428,8.0,2024-01-28,Sunday,16,Afternoon,2014.8702986478852, Central  → Airport,True
+BUS,Central,South Point,2024-01-01 17:00:00,12.0,43.00883182779887,97.5,2024-01-28,Sunday,17,Evening,516.1059819335865,Central → South Point,True
+BUS,West End,Downtown,2024-01-01 17:01:00,61.0,37.54361475645412,158.0,2024-01-28,Sunday,17,Evening,2290.160500143701,West End → Downtown,True
+BUS,Central,South Point,2024-01-01 17:02:00,33.0,25.403856477451566,115.0,2024-01-28,Sunday,17,Evening,838.3272637559016,Central → South Point,True
+BUS,South Point,West End,2024-01-01 17:03:00,45.0,30.72206437326351,54.0,2024-01-28,Sunday,17,Evening,1382.492896796858,South Point → West End,True
+TRAM,North Station,South Point,2024-01-01 17:04:00,90.0,8.438087602927286,144.0,2024-01-28,Sunday,17,Evening,759.4278842634558,North Station → South Point,True
+TRAIN,West End,Central,2024-01-01 17:05:00,92.0,33.84544816500793,99.0,2024-01-28,Sunday,17,Evening,3113.7812311807297,West End → Central,True
+BUS,Central,West End,2024-01-01 17:06:00,69.0,9.373036159094397,96.0,2024-01-28,Sunday,17,Evening,646.7394949775135,Central → West End,True
+BUS,Downtown,Airport,2024-01-01 17:07:00,48.0,34.85050473025276,69.0,2024-01-28,Sunday,17,Evening,1672.8242270521323,Downtown → Airport,True
+FERRY,West End,West End,2024-01-01 17:08:00,25.0,11.86510895732145,51.0,2024-01-28,Sunday,17,Evening,296.62772393303624,West End → West End,True
+BUS,West End,Downtown,2024-01-01 17:09:00,91.0,6.318789357435889,110.0,2024-01-28,Sunday,17,Evening,575.0098315266658,West End → Downtown,True
+FERRY,Central,North Station,2024-01-01 17:10:00,46.0,8.681582262076393,97.5,2024-01-28,Sunday,17,Evening,399.35278405551406,Central → North Station,True
+TRAM,West End,Airport,2024-01-01 17:11:00,87.0,25.403856477451566,110.0,2024-01-28,Sunday,17,Evening,2210.1355135382864,West End → Airport,True
+TRAIN,Downtown,West End,2024-01-01 17:12:00,30.0,36.07761108374974,28.0,2024-01-29,Monday,17,Evening,1082.3283325124921,Downtown → West End,False
+BUS,Airport,Airport,2024-01-01 17:13:00,47.0,36.75385192838976,97.5,2024-01-29,Monday,17,Evening,1727.4310406343186,Airport → Airport,False
+FERRY,West End,Airport,2024-01-01 17:14:00,87.0,25.98920082070634,112.0,2024-01-29,Monday,17,Evening,2261.0604714014517,West End → Airport,False
+FERRY,Airport,Airport,2024-01-01 17:15:00,49.0,8.487458652241493,97.5,2024-01-29,Monday,17,Evening,415.8854739598332,Airport → Airport,False
+TRAIN,Downtown,North Station,2024-01-01 17:16:00,47.0,4.635939706779142,97.5,2024-01-29,Monday,17,Evening,217.8891662186197,Downtown → North Station,False
+BUS,Central,South Point,2024-01-01 17:17:00,84.0,1.446883838645707,44.0,2024-01-29,Monday,17,Evening,121.5382424462394,Central → South Point,False
+TRAM,North Station,Airport,2024-01-01 17:18:00,82.0,8.704534759778426,54.0,2024-01-29,Monday,17,Evening,713.7718503018309,North Station → Airport,False
+BUS,West End,Central,2024-01-01 17:19:00,48.0,25.403856477451566,175.0,2024-01-29,Monday,17,Evening,1219.385110917675,West End → Central,False
+FERRY,North Station,Downtown,2024-01-01 17:20:00,66.0,12.45607366423325,79.0,2024-01-29,Monday,17,Evening,822.1008618393945,North Station → Downtown,False
+BUS,Downtown,North Station,2024-01-01 17:21:00,68.0,18.03643069725218,16.0,2024-01-29,Monday,17,Evening,1226.4772874131481,Downtown → North Station,False
+FERRY,West End,West End,2024-01-01 17:22:00,94.0,5.714601481825992,31.0,2024-01-29,Monday,17,Evening,537.1725392916433,West End → West End,False
+BUS,Airport,North Station,2024-01-01 17:23:00,33.0,11.50688458503443,117.0,2024-01-29,Monday,17,Evening,379.72719130613615,Airport → North Station,False
+BUS,South Point,West End,2024-01-01 17:24:00,36.0,25.403856477451566,53.0,2024-01-29,Monday,17,Evening,914.5388331882564,South Point → West End,False
+BUS,North Station,North Station,2024-01-01 17:25:00,82.0,30.5837578132348,148.0,2024-01-29,Monday,17,Evening,2507.868140685254,North Station → North Station,False
+TRAIN,West End,West End,2024-01-01 17:26:00,48.0,12.64493955122745,134.0,2024-01-29,Monday,17,Evening,606.9570984589176,West End → West End,False
+BUS,North Station,Airport,2024-01-01 17:27:00,28.0,3.357741881643302,64.0,2024-01-29,Monday,17,Evening,94.01677268601244,North Station → Airport,False
+BUS,West End,South Point,2024-01-01 17:28:00,40.0,19.85612702180623,34.0,2024-01-29,Monday,17,Evening,794.2450808722492,West End → South Point,False
+TRAIN,Central,West End,2024-01-01 17:29:00,48.0,25.403856477451566,88.0,2024-01-29,Monday,17,Evening,1219.385110917675,Central → West End,False
+TRAM,Airport,West End,2024-01-01 17:30:00,97.0,11.3679191998752,170.0,2024-01-29,Monday,17,Evening,1102.6881623878944,Airport → West End,False
+BUS,North Station,Central,2024-01-01 17:31:00,76.0,48.01320873431604,97.5,2024-01-29,Monday,17,Evening,3649.0038638080187,North Station → Central,False
+TRAIN,South Point,West End,2024-01-01 17:32:00,15.0,31.00687405332334,29.0,2024-01-29,Monday,17,Evening,465.1031107998501,South Point → West End,False
+BUS,South Point,Central,2024-01-01 17:33:00,41.0,28.06548293701875,97.5,2024-01-29,Monday,17,Evening,1150.6848004177687,South Point → Central,False
+FERRY,Downtown,Downtown,2024-01-01 17:34:00,39.0,21.08086762440443,129.0,2024-01-29,Monday,17,Evening,822.1538373517727,Downtown → Downtown,False
+FERRY,West End,Airport,2024-01-01 17:35:00,2.0,21.73274450479214,14.0,2024-01-29,Monday,17,Evening,43.46548900958428,West End → Airport,False
+BUS,North Station,Central,2024-01-01 17:36:00,63.0,27.274797689985,46.0,2024-01-30,Tuesday,17,Evening,1718.312254469055,North Station → Central,False
+TRAM,Downtown,South Point,2024-01-01 17:37:00,29.0,34.97327544828731,44.0,2024-01-30,Tuesday,17,Evening,1014.224988000332,Downtown → South Point,False
+TRAM,North Station,Airport,2024-01-01 17:38:00,74.0,35.25623176100056,81.0,2024-01-30,Tuesday,17,Evening,2608.961150314042,North Station → Airport,False
+BUS,West End,Central,2024-01-01 17:39:00,66.0,8.998848431419754,109.0,2024-01-30,Tuesday,17,Evening,593.9239964737037,West End → Central,False
+BUS,South Point,Airport,2024-01-01 17:40:00,48.0,25.25558122779303,122.0,2024-01-30,Tuesday,17,Evening,1212.2678989340654,South Point → Airport,False
+FERRY,Central,Airport,2024-01-01 17:41:00,75.0,20.89192570418805,46.0,2024-01-30,Tuesday,17,Evening,1566.894427814104,Central → Airport,False
+TRAM,South Point,Airport,2024-01-01 17:42:00,48.0,43.59108483033452,51.0,2024-01-30,Tuesday,17,Evening,2092.372071856057,South Point → Airport,False
+BUS,Downtown,Downtown,2024-01-01 17:43:00,10.0,25.403856477451566,97.5,2024-01-30,Tuesday,17,Evening,254.03856477451566,Downtown → Downtown,False
+FERRY,Airport,South Point,2024-01-01 17:44:00,48.0,26.8589512875911,26.0,2024-01-30,Tuesday,17,Evening,1289.2296618043729,Airport → South Point,False
+BUS,Central,North Station,2024-01-01 17:45:00,82.0,6.21203478785641,97.5,2024-01-30,Tuesday,17,Evening,509.3868526042256,Central → North Station,False
+TRAIN,Downtown,North Station,2024-01-01 17:46:00,51.0,25.403856477451566,31.0,2024-01-30,Tuesday,17,Evening,1295.5966803500298,Downtown → North Station,False
+FERRY,West End,Central,2024-01-01 17:47:00,73.0,6.301593331171555,45.0,2024-01-30,Tuesday,17,Evening,460.01631317552346,West End → Central,False
+TRAM,Central,Airport,2024-01-01 17:48:00,39.0,17.19172549050473,84.0,2024-01-30,Tuesday,17,Evening,670.4772941296844,Central → Airport,False
+FERRY,Downtown,Central,2024-01-01 17:49:00,28.0,7.570677258309427,166.0,2024-01-30,Tuesday,17,Evening,211.97896323266394,Downtown → Central,False
+TRAIN,West End,Downtown,2024-01-01 17:50:00,3.0,34.75764552770626,164.0,2024-01-30,Tuesday,17,Evening,104.27293658311878,West End → Downtown,False
+FERRY,South Point,Downtown,2024-01-01 17:51:00,84.0,10.70947963488955,93.0,2024-01-30,Tuesday,17,Evening,899.5962893307222,South Point → Downtown,False
+BUS,Airport,West End,2024-01-01 17:52:00,70.0,19.89703897280729,70.0,2024-01-30,Tuesday,17,Evening,1392.7927280965105,Airport → West End,False
+BUS,West End,Downtown,2024-01-01 17:53:00,27.0,44.83590149212954,16.0,2024-01-30,Tuesday,17,Evening,1210.5693402874974,West End → Downtown,False
+FERRY,North Station,airport,2024-01-01 17:54:00,2.0,10.61366097824903,172.0,2024-01-30,Tuesday,17,Evening,21.22732195649806,North Station → airport,False
+FERRY,West End,South Point,2024-01-01 17:55:00,93.0,25.63635066595957,77.0,2024-01-30,Tuesday,17,Evening,2384.18061193424,West End → South Point,False
+BUS,West End,Central,2024-01-01 17:56:00,38.0,21.25394722771809,80.0,2024-01-30,Tuesday,17,Evening,807.6499946532874,West End → Central,False
+TRAM,Airport,South Point,2024-01-01 17:57:00,3.0,1.397140031763622,94.0,2024-01-30,Tuesday,17,Evening,4.191420095290866,Airport → South Point,False
+FERRY,North Station,Downtown,2024-01-01 17:58:00,16.0,39.74152662185423,14.0,2024-01-30,Tuesday,17,Evening,635.8644259496676,North Station → Downtown,False
+BUS,Downtown,South Point,2024-01-01 17:59:00,94.0,3.917772362572686,100.0,2024-01-30,Tuesday,17,Evening,368.27060208183246,Downtown → South Point,False
+TRAM,Downtown,South Point,2024-01-01 18:00:00,40.0,23.9756235383592,24.0,2024-01-31,Wednesday,18,Evening,959.024941534368,Downtown → South Point,False
+BUS,West End,South Point,2024-01-01 18:01:00,2.0,28.25357559947802,43.0,2024-01-31,Wednesday,18,Evening,56.50715119895604,West End → South Point,False
+FERRY,North Station,Downtown,2024-01-01 18:02:00,81.0,25.403856477451566,64.0,2024-01-31,Wednesday,18,Evening,2057.712374673577,North Station → Downtown,False
+BUS,North Station,Airport,2024-01-01 18:03:00,41.0,25.403856477451566,70.0,2024-01-31,Wednesday,18,Evening,1041.5581155755142,North Station → Airport,False
+FERRY, Central ,South Point,2024-01-01 18:04:00,12.0,13.0369829843744,69.0,2024-01-31,Wednesday,18,Evening,156.4437958124928, Central  → South Point,False
+BUS,South Point,West End,2024-01-01 18:05:00,35.0,0.993949444593244,128.0,2024-01-31,Wednesday,18,Evening,34.78823056076354,South Point → West End,False
+BUS,Downtown,Downtown,2024-01-01 18:06:00,65.0,36.31046128656814,168.0,2024-01-31,Wednesday,18,Evening,2360.1799836269292,Downtown → Downtown,False
+BUS, Central ,South Point,2024-01-01 18:07:00,55.0,27.01500166770514,156.0,2024-01-31,Wednesday,18,Evening,1485.8250917237826, Central  → South Point,False
+TRAIN,Central,Airport,2024-01-01 18:08:00,45.0,41.88782630875881,159.0,2024-01-31,Wednesday,18,Evening,1884.9521838941464,Central → Airport,False
+FERRY,Downtown,Downtown,2024-01-01 18:09:00,79.0,41.15872396358436,97.5,2024-01-31,Wednesday,18,Evening,3251.5391931231643,Downtown → Downtown,False
+TRAIN,Airport,North Station,2024-01-01 18:10:00,90.0,42.24464530550021,163.0,2024-01-31,Wednesday,18,Evening,3802.0180774950186,Airport → North Station,False
+FERRY,Downtown,Airport,2024-01-01 18:11:00,85.0,24.51218566898724,61.0,2024-01-31,Wednesday,18,Evening,2083.5357818639154,Downtown → Airport,False
+BUS,South Point,West End,2024-01-01 18:12:00,62.0,17.01460559392485,82.0,2024-01-31,Wednesday,18,Evening,1054.9055468233405,South Point → West End,False
+BUS,Central,South Point,2024-01-01 18:13:00,49.0,39.68213102827281,33.0,2024-01-31,Wednesday,18,Evening,1944.424420385368,Central → South Point,False
+FERRY,South Point,North Station,2024-01-01 18:14:00,95.0,22.83905859494812,19.0,2024-01-31,Wednesday,18,Evening,2169.7105665200716,South Point → North Station,False
+FERRY,Central,North Station,2024-01-01 18:15:00,25.0,9.580388721970008,16.0,2024-01-31,Wednesday,18,Evening,239.5097180492502,Central → North Station,False
+BUS,West End,Downtown,2024-01-01 18:16:00,23.0,42.82121396829298,105.0,2024-01-31,Wednesday,18,Evening,984.8879212707385,West End → Downtown,False
+FERRY,Airport,North Station,2024-01-01 18:17:00,48.0,44.18671390023119,160.0,2024-01-31,Wednesday,18,Evening,2120.9622672110972,Airport → North Station,False
+FERRY,Central,West End,2024-01-01 18:18:00,38.0,23.58233292893842,88.0,2024-01-31,Wednesday,18,Evening,896.12865129966,Central → West End,False
+TRAIN,South Point,West End,2024-01-01 18:19:00,28.0,4.247136501834479,129.0,2024-01-31,Wednesday,18,Evening,118.91982205136541,South Point → West End,False
+FERRY,Downtown,Central,2024-01-01 18:20:00,21.0,25.403856477451566,107.0,2024-01-31,Wednesday,18,Evening,533.4809860264829,Downtown → Central,False
+TRAM,Central,West End,2024-01-01 18:21:00,54.0,40.27511414339887,28.0,2024-01-31,Wednesday,18,Evening,2174.856163743539,Central → West End,False
+BUS,Airport,Airport,2024-01-01 18:22:00,18.0,45.13781441303832,97.5,2024-01-31,Wednesday,18,Evening,812.4806594346898,Airport → Airport,False
+TRAIN,Central,North Station,2024-01-01 18:23:00,36.0,10.57190075363099,142.0,2024-01-31,Wednesday,18,Evening,380.5884271307156,Central → North Station,False
+TRAIN,North Station,West End,2024-01-01 18:24:00,99.0,25.403856477451566,114.0,2024-02-01,Thursday,18,Evening,2514.981791267705,North Station → West End,False
+TRAM,Downtown,Downtown,2024-01-01 18:25:00,45.0,43.92884743007551,82.0,2024-02-01,Thursday,18,Evening,1976.798134353398,Downtown → Downtown,False
+BUS,Airport,Central,2024-01-01 18:26:00,73.0,19.77554447945433,105.0,2024-02-01,Thursday,18,Evening,1443.614747000166,Airport → Central,False
+BUS,Airport,North Station,2024-01-01 18:27:00,53.0,27.31716773124438,150.0,2024-02-01,Thursday,18,Evening,1447.809889755952,Airport → North Station,False
+TRAIN,West End,Central,2024-01-01 18:28:00,30.0,48.41925769651257,146.0,2024-02-01,Thursday,18,Evening,1452.577730895377,West End → Central,False
+FERRY,South Point,North Station,2024-01-01 18:29:00,60.0,3.794954031754031,166.0,2024-02-01,Thursday,18,Evening,227.69724190524187,South Point → North Station,False
+TRAIN,West End,Downtown,2024-01-01 18:30:00,98.0,32.59174136887873,132.0,2024-02-01,Thursday,18,Evening,3193.9906541501155,West End → Downtown,False
+BUS, Central ,Central,2024-01-01 18:31:00,32.0,4.16821841745592,62.0,2024-02-01,Thursday,18,Evening,133.38298935858944, Central  → Central,False
+TRAIN,Downtown,South Point,2024-01-01 18:32:00,67.0,19.08571195909177,80.0,2024-02-01,Thursday,18,Evening,1278.7427012591486,Downtown → South Point,False
+BUS,Central,Airport,2024-01-01 18:33:00,67.0,40.28881998707561,154.0,2024-02-01,Thursday,18,Evening,2699.350939134066,Central → Airport,False
+TRAIN,Central,Airport,2024-01-01 18:34:00,28.0,21.9568755214039,97.5,2024-02-01,Thursday,18,Evening,614.7925145993092,Central → Airport,False
+FERRY,Downtown,North Station,2024-01-01 18:35:00,44.0,49.86052651819605,177.0,2024-02-01,Thursday,18,Evening,2193.8631668006265,Downtown → North Station,False
+TRAIN,Airport,South Point,2024-01-01 18:36:00,48.0,25.403856477451566,168.0,2024-02-01,Thursday,18,Evening,1219.385110917675,Airport → South Point,False
+FERRY, Central ,Central,2024-01-01 18:37:00,41.0,16.3975265554797,26.0,2024-02-01,Thursday,18,Evening,672.2985887746677, Central  → Central,False
+BUS, Central ,South Point,2024-01-01 18:38:00,63.0,11.39551063228528,131.0,2024-02-01,Thursday,18,Evening,717.9171698339726, Central  → South Point,False
+BUS,Central,South Point,2024-01-01 18:39:00,23.0,17.85076644716501,84.0,2024-02-01,Thursday,18,Evening,410.56762828479526,Central → South Point,False
+BUS,South Point,Central,2024-01-01 18:40:00,75.0,18.94039705109777,104.0,2024-02-01,Thursday,18,Evening,1420.5297788323326,South Point → Central,False
+TRAIN,South Point,Downtown,2024-01-01 18:41:00,48.0,3.901327047336068,100.0,2024-02-01,Thursday,18,Evening,187.26369827213128,South Point → Downtown,False
+FERRY,North Station,South Point,2024-01-01 18:42:00,32.0,18.79392287162527,165.0,2024-02-01,Thursday,18,Evening,601.4055318920086,North Station → South Point,False
+BUS,West End,South Point,2024-01-01 18:43:00,57.0,23.47980672709163,177.0,2024-02-01,Thursday,18,Evening,1338.348983444223,West End → South Point,False
+BUS,Downtown,Downtown,2024-01-01 18:44:00,33.0,36.27551873582083,168.0,2024-02-01,Thursday,18,Evening,1197.0921182820875,Downtown → Downtown,False
+TRAIN,Downtown,South Point,2024-01-01 18:45:00,24.0,33.00810949371959,152.0,2024-02-01,Thursday,18,Evening,792.1946278492701,Downtown → South Point,False
+TRAM,Downtown,South Point,2024-01-01 18:46:00,39.0,35.58389993384313,22.0,2024-02-01,Thursday,18,Evening,1387.772097419882,Downtown → South Point,False
+FERRY,North Station,South Point,2024-01-01 18:47:00,48.0,0.9140022529044264,42.0,2024-02-01,Thursday,18,Evening,43.87210813941247,North Station → South Point,False
+FERRY,South Point,Airport,2024-01-01 18:48:00,56.0,11.27453627923653,155.0,2024-02-02,Friday,18,Evening,631.3740316372457,South Point → Airport,False
+FERRY,Airport,West End,2024-01-01 18:49:00,28.0,33.2533722757929,113.0,2024-02-02,Friday,18,Evening,931.0944237222011,Airport → West End,False
+FERRY,Airport,Downtown,2024-01-01 18:50:00,37.0,24.45747372489748,127.0,2024-02-02,Friday,18,Evening,904.9265278212067,Airport → Downtown,False
+BUS,North Station,South Point,2024-01-01 18:51:00,7.0,0.7630170455831243,148.0,2024-02-02,Friday,18,Evening,5.34111931908187,North Station → South Point,False
+TRAM,Airport,Airport,2024-01-01 18:52:00,68.0,40.32248480037521,153.0,2024-02-02,Friday,18,Evening,2741.928966425514,Airport → Airport,False
+TRAM,Downtown,Downtown,2024-01-01 18:53:00,37.0,38.7540738778717,108.0,2024-02-02,Friday,18,Evening,1433.9007334812527,Downtown → Downtown,False
+TRAIN,West End,North Station,2024-01-01 18:54:00,56.0,25.403856477451566,144.0,2024-02-02,Friday,18,Evening,1422.6159627372876,West End → North Station,False
+TRAM,Central,North Station,2024-01-01 18:55:00,65.0,3.78993462592547,148.0,2024-02-02,Friday,18,Evening,246.34575068515554,Central → North Station,False
+FERRY,South Point,South Point,2024-01-01 18:56:00,65.0,38.44249495186294,85.0,2024-02-02,Friday,18,Evening,2498.762171871091,South Point → South Point,False
+FERRY,South Point,Airport,2024-01-01 18:57:00,47.0,29.39382259270252,91.0,2024-02-02,Friday,18,Evening,1381.5096618570185,South Point → Airport,False
+BUS,North Station,Airport,2024-01-01 18:58:00,20.0,39.20701886931898,146.0,2024-02-02,Friday,18,Evening,784.1403773863796,North Station → Airport,False
+FERRY,South Point,airport,2024-01-01 18:59:00,48.0,37.7114761235941,65.0,2024-02-02,Friday,18,Evening,1810.1508539325168,South Point → airport,False
+TRAIN,Downtown,Downtown,2024-01-01 19:00:00,29.0,40.24860256191294,50.0,2024-02-02,Friday,19,Evening,1167.2094742954753,Downtown → Downtown,False
+FERRY,Airport,Airport,2024-01-01 19:01:00,74.0,25.403856477451566,36.0,2024-02-02,Friday,19,Evening,1879.8853793314158,Airport → Airport,False
+FERRY,Downtown,Downtown,2024-01-01 19:02:00,60.0,7.446063650578992,19.0,2024-02-02,Friday,19,Evening,446.7638190347395,Downtown → Downtown,False
+TRAIN,North Station,Airport,2024-01-01 19:03:00,18.0,33.72229493229459,48.0,2024-02-02,Friday,19,Evening,607.0013087813026,North Station → Airport,False
+TRAIN,Downtown,West End,2024-01-01 19:04:00,92.0,31.21345236007254,149.0,2024-02-02,Friday,19,Evening,2871.637617126674,Downtown → West End,False
+FERRY,Airport,Airport,2024-01-01 19:05:00,35.0,37.24153276635482,173.0,2024-02-02,Friday,19,Evening,1303.4536468224187,Airport → Airport,False
+FERRY,West End,airport,2024-01-01 19:06:00,43.0,8.909109799511398,58.0,2024-02-02,Friday,19,Evening,383.09172137899014,West End → airport,False
+TRAIN,North Station,Downtown,2024-01-01 19:07:00,95.0,10.15127239506432,48.0,2024-02-02,Friday,19,Evening,964.3708775311104,North Station → Downtown,False
+FERRY,West End,Airport,2024-01-01 19:08:00,91.0,44.57527110235676,102.0,2024-02-02,Friday,19,Evening,4056.349670314465,West End → Airport,False
+BUS,Central,Airport,2024-01-01 19:09:00,11.0,37.62390102337751,9.0,2024-02-02,Friday,19,Evening,413.86291125715263,Central → Airport,False
+BUS, Central ,Downtown,2024-01-01 19:10:00,49.0,45.45731019066599,113.0,2024-02-02,Friday,19,Evening,2227.4081993426335, Central  → Downtown,False
+TRAIN,Central,West End,2024-01-01 19:11:00,38.0,38.05640839761408,97.5,2024-02-02,Friday,19,Evening,1446.1435191093349,Central → West End,False
+TRAM,Central,West End,2024-01-01 19:12:00,64.0,30.05918764651994,120.0,2024-02-03,Saturday,19,Evening,1923.7880093772762,Central → West End,True
+TRAIN,West End,Downtown,2024-01-01 19:13:00,48.0,32.87957048287975,91.0,2024-02-03,Saturday,19,Evening,1578.2193831782279,West End → Downtown,True
+TRAIN,North Station,Central,2024-01-01 19:14:00,8.0,44.51183223503049,108.0,2024-02-03,Saturday,19,Evening,356.0946578802439,North Station → Central,True
+BUS,Airport,airport,2024-01-01 19:15:00,34.0,29.15093434834106,127.0,2024-02-03,Saturday,19,Evening,991.1317678435961,Airport → airport,True
+BUS,Downtown,Downtown,2024-01-01 19:16:00,48.0,31.80337055425518,83.0,2024-02-03,Saturday,19,Evening,1526.5617866042487,Downtown → Downtown,True
+BUS,Downtown,West End,2024-01-01 19:17:00,48.0,8.245597442178228,47.0,2024-02-03,Saturday,19,Evening,395.78867722455493,Downtown → West End,True
+FERRY,Airport,West End,2024-01-01 19:18:00,76.0,23.95910039574709,101.0,2024-02-03,Saturday,19,Evening,1820.8916300767787,Airport → West End,True
+BUS,Central,airport,2024-01-01 19:19:00,65.0,35.9616570419259,35.0,2024-02-03,Saturday,19,Evening,2337.5077077251835,Central → airport,True
+FERRY,Central,Downtown,2024-01-01 19:20:00,48.0,13.91166356666009,103.0,2024-02-03,Saturday,19,Evening,667.7598511996844,Central → Downtown,True
+BUS,North Station,airport,2024-01-01 19:21:00,4.0,10.51158193596448,21.0,2024-02-03,Saturday,19,Evening,42.04632774385792,North Station → airport,True
+FERRY,South Point,airport,2024-01-01 19:22:00,50.0,16.03442700710857,87.0,2024-02-03,Saturday,19,Evening,801.7213503554284,South Point → airport,True
+BUS,West End,Downtown,2024-01-01 19:23:00,48.0,12.45428108564526,114.0,2024-02-03,Saturday,19,Evening,597.8054921109724,West End → Downtown,True
+FERRY,Central,Downtown,2024-01-01 19:24:00,30.0,11.1381755333016,97.5,2024-02-03,Saturday,19,Evening,334.14526599904804,Central → Downtown,True
+BUS,Downtown,South Point,2024-01-01 19:25:00,88.0,21.53011672197031,97.5,2024-02-03,Saturday,19,Evening,1894.6502715333872,Downtown → South Point,True
+BUS,North Station,Central,2024-01-01 19:26:00,59.0,45.43800643723494,145.0,2024-02-03,Saturday,19,Evening,2680.842379796861,North Station → Central,True
+FERRY,West End,North Station,2024-01-01 19:27:00,67.0,25.403856477451566,39.0,2024-02-03,Saturday,19,Evening,1702.058383989255,West End → North Station,True
+TRAM,North Station,Central,2024-01-01 19:28:00,75.0,9.80205885035849,137.0,2024-02-03,Saturday,19,Evening,735.1544137768867,North Station → Central,True
+BUS,West End,South Point,2024-01-01 19:29:00,45.0,4.310097634353267,33.0,2024-02-03,Saturday,19,Evening,193.954393545897,West End → South Point,True
+BUS,West End,North Station,2024-01-01 19:30:00,4.0,34.9597291843273,74.0,2024-02-03,Saturday,19,Evening,139.8389167373092,West End → North Station,True
+BUS,Airport,Downtown,2024-01-01 19:31:00,26.0,19.4485388396012,157.0,2024-02-03,Saturday,19,Evening,505.6620098296312,Airport → Downtown,True
+TRAIN,Central,South Point,2024-01-01 19:32:00,27.0,41.18063185597529,99.0,2024-02-03,Saturday,19,Evening,1111.8770601113329,Central → South Point,True
+BUS,North Station,Downtown,2024-01-01 19:33:00,46.0,33.14578304771813,26.0,2024-02-03,Saturday,19,Evening,1524.7060201950342,North Station → Downtown,True
+TRAIN,North Station,West End,2024-01-01 19:34:00,64.0,39.91395180179774,177.0,2024-02-03,Saturday,19,Evening,2554.492915315055,North Station → West End,True
+TRAIN,Airport,Airport,2024-01-01 19:35:00,48.0,13.96132895121321,73.0,2024-02-03,Saturday,19,Evening,670.143789658234,Airport → Airport,True
+TRAM, Central ,South Point,2024-01-01 19:36:00,51.0,34.77176666182238,97.5,2024-02-04,Sunday,19,Evening,1773.3600997529416, Central  → South Point,True
+BUS,Downtown,airport,2024-01-01 19:37:00,50.0,13.57106824233908,76.0,2024-02-04,Sunday,19,Evening,678.5534121169541,Downtown → airport,True
+BUS,Central,South Point,2024-01-01 19:38:00,6.0,46.98388973278944,133.0,2024-02-04,Sunday,19,Evening,281.9033383967367,Central → South Point,True
+BUS,Central,South Point,2024-01-01 19:39:00,59.0,32.00052693590203,176.0,2024-02-04,Sunday,19,Evening,1888.0310892182197,Central → South Point,True
+FERRY, Central ,West End,2024-01-01 19:40:00,15.0,16.56333410867943,91.0,2024-02-04,Sunday,19,Evening,248.45001163019145, Central  → West End,True
+BUS,Airport,North Station,2024-01-01 19:41:00,30.0,25.403856477451566,100.0,2024-02-04,Sunday,19,Evening,762.115694323547,Airport → North Station,True
+TRAIN,Downtown,Central,2024-01-01 19:42:00,42.0,9.950865961046354,79.0,2024-02-04,Sunday,19,Evening,417.9363703639469,Downtown → Central,True
+BUS, Central ,Downtown,2024-01-01 19:43:00,37.0,34.88472746523953,171.0,2024-02-04,Sunday,19,Evening,1290.7349162138626, Central  → Downtown,True
+FERRY,North Station,South Point,2024-01-01 19:44:00,42.0,11.3264228433974,58.0,2024-02-04,Sunday,19,Evening,475.7097594226908,North Station → South Point,True
+TRAM,Central,Downtown,2024-01-01 19:45:00,35.0,29.96751166341071,92.0,2024-02-04,Sunday,19,Evening,1048.862908219375,Central → Downtown,True
+BUS,North Station,Airport,2024-01-01 19:46:00,48.0,13.59943383280519,161.0,2024-02-04,Sunday,19,Evening,652.7728239746491,North Station → Airport,True
+TRAM,North Station,West End,2024-01-01 19:47:00,6.0,33.26746276729649,58.0,2024-02-04,Sunday,19,Evening,199.60477660377896,North Station → West End,True
+FERRY,South Point,Downtown,2024-01-01 19:48:00,68.0,25.403856477451566,97.5,2024-02-04,Sunday,19,Evening,1727.4622404667064,South Point → Downtown,True
+FERRY,Downtown,West End,2024-01-01 19:49:00,18.0,39.01224953566033,103.0,2024-02-04,Sunday,19,Evening,702.2204916418859,Downtown → West End,True
+TRAM,Central,Downtown,2024-01-01 19:50:00,73.0,38.1621408810737,24.0,2024-02-04,Sunday,19,Evening,2785.83628431838,Central → Downtown,True
+BUS,North Station,Central,2024-01-01 19:51:00,29.0,9.792259081766478,50.0,2024-02-04,Sunday,19,Evening,283.97551337122786,North Station → Central,True
+TRAIN,Central,Central,2024-01-01 19:52:00,77.0,4.875054875733676,131.0,2024-02-04,Sunday,19,Evening,375.37922543149307,Central → Central,True
+FERRY,West End,Central,2024-01-01 19:53:00,59.0,35.09796701012559,62.0,2024-02-04,Sunday,19,Evening,2070.78005359741,West End → Central,True
+FERRY,South Point,Central,2024-01-01 19:54:00,47.0,18.73318708282039,115.0,2024-02-04,Sunday,19,Evening,880.4597928925583,South Point → Central,True
+BUS,West End,Central,2024-01-01 19:55:00,17.0,21.90113820696569,133.0,2024-02-04,Sunday,19,Evening,372.31934951841674,West End → Central,True
+TRAIN,Central,Central,2024-01-01 19:56:00,96.0,2.041880093272858,85.0,2024-02-04,Sunday,19,Evening,196.02048895419435,Central → Central,True
+FERRY,Central,West End,2024-01-01 19:57:00,22.0,13.34903423911494,161.0,2024-02-04,Sunday,19,Evening,293.6787532605287,Central → West End,True
+FERRY,Downtown,South Point,2024-01-01 19:58:00,68.0,2.166981991785969,88.0,2024-02-04,Sunday,19,Evening,147.3547754414459,Downtown → South Point,True
+BUS, Central ,Downtown,2024-01-01 19:59:00,69.0,44.01969574376176,74.0,2024-02-04,Sunday,19,Evening,3037.3590063195616, Central  → Downtown,True
+BUS,North Station,Central,2024-01-01 20:00:00,37.0,12.54813581931726,97.5,2024-02-05,Monday,20,Evening,464.2810253147386,North Station → Central,False
+TRAIN,West End,West End,2024-01-01 20:01:00,49.0,28.0881898938639,33.0,2024-02-05,Monday,20,Evening,1376.321304799331,West End → West End,False
+TRAIN,South Point,West End,2024-01-01 20:02:00,13.0,2.429476372725955,116.0,2024-02-05,Monday,20,Evening,31.583192845437416,South Point → West End,False
+BUS,Airport,West End,2024-01-01 20:03:00,34.0,25.403856477451566,165.0,2024-02-05,Monday,20,Evening,863.7311202333532,Airport → West End,False
+FERRY,North Station,South Point,2024-01-01 20:04:00,86.0,16.48985361482764,135.0,2024-02-05,Monday,20,Evening,1418.1274108751772,North Station → South Point,False
+BUS,Downtown,Downtown,2024-01-01 20:05:00,53.0,44.94699975440446,167.0,2024-02-05,Monday,20,Evening,2382.1909869834362,Downtown → Downtown,False
+FERRY,West End,South Point,2024-01-01 20:06:00,48.0,44.46185035223478,112.0,2024-02-05,Monday,20,Evening,2134.1688169072695,West End → South Point,False
+TRAM,West End,North Station,2024-01-01 20:07:00,51.0,16.60188560890651,113.0,2024-02-05,Monday,20,Evening,846.696166054232,West End → North Station,False
+TRAIN,Airport,West End,2024-01-01 20:08:00,3.0,45.09756433667816,24.0,2024-02-05,Monday,20,Evening,135.2926930100345,Airport → West End,False
+TRAIN,Downtown,North Station,2024-01-01 20:09:00,42.0,49.80980483818955,77.0,2024-02-05,Monday,20,Evening,2092.011803203961,Downtown → North Station,False
+TRAM,South Point,Airport,2024-01-01 20:10:00,98.0,41.35807537413543,171.0,2024-02-05,Monday,20,Evening,4053.0913866652722,South Point → Airport,False
+TRAM,Downtown,Central,2024-01-01 20:11:00,32.0,42.32113171388384,8.0,2024-02-05,Monday,20,Evening,1354.2762148442828,Downtown → Central,False
+BUS,South Point,Central,2024-01-01 20:12:00,51.0,12.82593243739995,23.0,2024-02-05,Monday,20,Evening,654.1225543073975,South Point → Central,False
+TRAIN,Downtown,South Point,2024-01-01 20:13:00,85.0,29.04676874345894,106.0,2024-02-05,Monday,20,Evening,2468.97534319401,Downtown → South Point,False
+TRAM,Downtown,Downtown,2024-01-01 20:14:00,46.0,3.829167741384709,177.0,2024-02-05,Monday,20,Evening,176.1417161036966,Downtown → Downtown,False
+TRAM,Central,North Station,2024-01-01 20:15:00,21.0,5.198437872672651,97.5,2024-02-05,Monday,20,Evening,109.16719532612566,Central → North Station,False
+TRAIN,West End,Downtown,2024-01-01 20:16:00,44.0,49.94518429564788,145.0,2024-02-05,Monday,20,Evening,2197.5881090085068,West End → Downtown,False
+TRAIN,Downtown,South Point,2024-01-01 20:17:00,11.0,25.403856477451566,97.5,2024-02-05,Monday,20,Evening,279.44242125196723,Downtown → South Point,False
+TRAM,Airport,Central,2024-01-01 20:18:00,48.0,37.53510364641789,90.0,2024-02-05,Monday,20,Evening,1801.6849750280585,Airport → Central,False
+BUS,Downtown,Downtown,2024-01-01 20:19:00,48.0,40.42992012482741,56.0,2024-02-05,Monday,20,Evening,1940.6361659917156,Downtown → Downtown,False
+TRAM,North Station,Downtown,2024-01-01 20:20:00,92.0,25.403856477451566,115.0,2024-02-05,Monday,20,Evening,2337.154795925544,North Station → Downtown,False
+BUS,West End,Central,2024-01-01 20:21:00,63.0,49.88260072140675,113.0,2024-02-05,Monday,20,Evening,3142.6038454486256,West End → Central,False
+BUS,North Station,North Station,2024-01-01 20:22:00,24.0,12.45407602021496,90.0,2024-02-05,Monday,20,Evening,298.89782448515905,North Station → North Station,False
+BUS,West End,Central,2024-01-01 20:23:00,99.0,2.497365929555135,47.0,2024-02-05,Monday,20,Evening,247.23922702595837,West End → Central,False
+FERRY,North Station,Downtown,2024-01-01 20:24:00,13.0,20.85398014073201,46.0,2024-02-06,Tuesday,20,Evening,271.10174182951613,North Station → Downtown,False
+FERRY,Downtown,North Station,2024-01-01 20:25:00,98.0,6.938993156532874,94.0,2024-02-06,Tuesday,20,Evening,680.0213293402217,Downtown → North Station,False
+TRAIN,Downtown,airport,2024-01-01 20:26:00,11.0,1.610081513521729,119.0,2024-02-06,Tuesday,20,Evening,17.71089664873902,Downtown → airport,False
+FERRY,Central,Central,2024-01-01 20:27:00,51.0,18.34112794350356,30.0,2024-02-06,Tuesday,20,Evening,935.3975251186816,Central → Central,False
+BUS,Airport,Downtown,2024-01-01 20:28:00,17.0,39.2950434282242,155.0,2024-02-06,Tuesday,20,Evening,668.0157382798113,Airport → Downtown,False
+BUS,North Station,South Point,2024-01-01 20:29:00,99.0,28.52594421564101,47.0,2024-02-06,Tuesday,20,Evening,2824.06847734846,North Station → South Point,False
+BUS,South Point,Downtown,2024-01-01 20:30:00,82.0,15.98251046591253,81.0,2024-02-06,Tuesday,20,Evening,1310.5658582048275,South Point → Downtown,False
+BUS,Central,West End,2024-01-01 20:31:00,86.0,32.88992927188963,97.5,2024-02-06,Tuesday,20,Evening,2828.5339173825078,Central → West End,False
+TRAM,North Station,Airport,2024-01-01 20:32:00,48.0,25.403856477451566,97.5,2024-02-06,Tuesday,20,Evening,1219.385110917675,North Station → Airport,False
+BUS,North Station,South Point,2024-01-01 20:33:00,19.0,1.211881580568209,24.0,2024-02-06,Tuesday,20,Evening,23.025750030795972,North Station → South Point,False
+TRAM,Central,North Station,2024-01-01 20:34:00,37.0,25.403856477451566,43.0,2024-02-06,Tuesday,20,Evening,939.9426896657079,Central → North Station,False
+BUS,Downtown,South Point,2024-01-01 20:35:00,48.0,31.37528270076845,16.0,2024-02-06,Tuesday,20,Evening,1506.0135696368857,Downtown → South Point,False
+BUS,North Station,North Station,2024-01-01 20:36:00,8.0,38.23397991279752,15.0,2024-02-06,Tuesday,20,Evening,305.8718393023802,North Station → North Station,False
+TRAIN,Downtown,North Station,2024-01-01 20:37:00,28.0,2.427431826039448,158.0,2024-02-06,Tuesday,20,Evening,67.96809112910454,Downtown → North Station,False
+FERRY,Central,South Point,2024-01-01 20:38:00,5.0,41.93742157761729,46.0,2024-02-06,Tuesday,20,Evening,209.68710788808647,Central → South Point,False
+BUS,Downtown,North Station,2024-01-01 20:39:00,17.0,31.16654690179702,97.5,2024-02-06,Tuesday,20,Evening,529.8312973305493,Downtown → North Station,False
+TRAIN,West End,North Station,2024-01-01 20:40:00,36.0,28.38806986027569,97.5,2024-02-06,Tuesday,20,Evening,1021.9705149699248,West End → North Station,False
+TRAIN,South Point,West End,2024-01-01 20:41:00,19.0,31.41839538166931,42.0,2024-02-06,Tuesday,20,Evening,596.9495122517169,South Point → West End,False
+FERRY,North Station,Downtown,2024-01-01 20:42:00,64.0,25.403856477451566,102.0,2024-02-06,Tuesday,20,Evening,1625.8468145569002,North Station → Downtown,False
+BUS,Airport,Downtown,2024-01-01 20:43:00,91.0,29.5533570746659,175.0,2024-02-06,Tuesday,20,Evening,2689.355493794597,Airport → Downtown,False
+FERRY,South Point,Airport,2024-01-01 20:44:00,98.0,29.25704380446488,23.0,2024-02-06,Tuesday,20,Evening,2867.1902928375584,South Point → Airport,False
+BUS,Downtown,Airport,2024-01-01 20:45:00,11.0,49.53861827475541,138.0,2024-02-06,Tuesday,20,Evening,544.9248010223095,Downtown → Airport,False
+TRAIN,North Station,West End,2024-01-01 20:46:00,54.0,37.95814326989412,178.0,2024-02-06,Tuesday,20,Evening,2049.7397365742827,North Station → West End,False
+TRAIN,Downtown,Airport,2024-01-01 20:47:00,45.0,22.3935433698312,120.0,2024-02-06,Tuesday,20,Evening,1007.709451642404,Downtown → Airport,False
+TRAIN, Central ,South Point,2024-01-01 20:48:00,47.0,35.51615150162992,117.0,2024-02-07,Wednesday,20,Evening,1669.2591205766062, Central  → South Point,False
+TRAIN,Central,Central,2024-01-01 20:49:00,12.0,19.76690834874353,174.0,2024-02-07,Wednesday,20,Evening,237.20290018492238,Central → Central,False
+FERRY,North Station,Central,2024-01-01 20:50:00,21.0,11.8293353929332,69.0,2024-02-07,Wednesday,20,Evening,248.4160432515972,North Station → Central,False
+BUS,West End,Central,2024-01-01 20:51:00,11.0,30.04416790594409,103.0,2024-02-07,Wednesday,20,Evening,330.485846965385,West End → Central,False
+BUS,West End,West End,2024-01-01 20:52:00,92.0,46.4450138566406,76.0,2024-02-07,Wednesday,20,Evening,4272.941274810935,West End → West End,False
+FERRY,North Station,West End,2024-01-01 20:53:00,5.0,46.4924062407654,56.0,2024-02-07,Wednesday,20,Evening,232.462031203827,North Station → West End,False
+BUS,Downtown,North Station,2024-01-01 20:54:00,81.0,25.403856477451566,122.0,2024-02-07,Wednesday,20,Evening,2057.712374673577,Downtown → North Station,False
+TRAIN,Airport,Central,2024-01-01 20:55:00,56.0,26.6200345779739,179.0,2024-02-07,Wednesday,20,Evening,1490.7219363665383,Airport → Central,False
+BUS,West End,South Point,2024-01-01 20:56:00,20.0,10.97597697920813,124.0,2024-02-07,Wednesday,20,Evening,219.5195395841626,West End → South Point,False
+TRAIN,South Point,Airport,2024-01-01 20:57:00,41.0,49.78373992019473,11.0,2024-02-07,Wednesday,20,Evening,2041.133336727984,South Point → Airport,False
+FERRY,West End,South Point,2024-01-01 20:58:00,46.0,49.06533643946282,15.0,2024-02-07,Wednesday,20,Evening,2257.0054762152895,West End → South Point,False
+BUS,Airport,Airport,2024-01-01 20:59:00,12.0,32.65069202051864,97.5,2024-02-07,Wednesday,20,Evening,391.80830424622366,Airport → Airport,False
+FERRY,Downtown,Central,2024-01-01 21:00:00,70.0,40.31849595403493,97.5,2024-02-07,Wednesday,21,Night,2822.294716782445,Downtown → Central,False
+BUS,Downtown,Central,2024-01-01 21:01:00,17.0,35.89745798354315,72.0,2024-02-07,Wednesday,21,Night,610.2567857202336,Downtown → Central,False
+BUS,South Point,Central,2024-01-01 21:02:00,19.0,29.86133184245368,157.0,2024-02-07,Wednesday,21,Night,567.3653050066199,South Point → Central,False
+FERRY,West End,West End,2024-01-01 21:03:00,26.0,3.140725850950436,144.0,2024-02-07,Wednesday,21,Night,81.65887212471134,West End → West End,False
+BUS,Downtown,Airport,2024-01-01 21:04:00,48.0,23.01083495635672,158.0,2024-02-07,Wednesday,21,Night,1104.5200779051227,Downtown → Airport,False
+TRAIN,Airport,West End,2024-01-01 21:05:00,52.0,33.90192195728682,106.0,2024-02-07,Wednesday,21,Night,1762.8999417789146,Airport → West End,False
+FERRY,North Station,West End,2024-01-01 21:06:00,48.0,34.03781488724239,114.0,2024-02-07,Wednesday,21,Night,1633.8151145876348,North Station → West End,False
+FERRY,Central,Downtown,2024-01-01 21:07:00,70.0,25.403856477451566,97.5,2024-02-07,Wednesday,21,Night,1778.2699534216097,Central → Downtown,False
+BUS,Central,South Point,2024-01-01 21:08:00,55.0,47.11375333957251,175.0,2024-02-07,Wednesday,21,Night,2591.256433676488,Central → South Point,False
+BUS,Central,South Point,2024-01-01 21:09:00,75.0,8.784173095720659,55.0,2024-02-07,Wednesday,21,Night,658.8129821790494,Central → South Point,False
+BUS,West End,North Station,2024-01-01 21:10:00,33.0,25.26779258767025,97.5,2024-02-07,Wednesday,21,Night,833.8371553931182,West End → North Station,False
+TRAIN,South Point,West End,2024-01-01 21:11:00,62.0,34.69875683926573,169.0,2024-02-07,Wednesday,21,Night,2151.322924034475,South Point → West End,False
+BUS,Downtown,Airport,2024-01-01 21:12:00,88.0,35.00822239164456,50.0,2024-02-08,Thursday,21,Night,3080.723570464721,Downtown → Airport,False
+FERRY,North Station,Downtown,2024-01-01 21:13:00,23.0,32.60762836005637,57.0,2024-02-08,Thursday,21,Night,749.9754522812964,North Station → Downtown,False
+FERRY,Airport,Downtown,2024-01-01 21:14:00,15.0,25.403856477451566,92.0,2024-02-08,Thursday,21,Night,381.0578471617735,Airport → Downtown,False
+BUS,North Station,South Point,2024-01-01 21:15:00,27.0,8.232225149987787,125.0,2024-02-08,Thursday,21,Night,222.27007904967024,North Station → South Point,False
+BUS,Airport,West End,2024-01-01 21:16:00,75.0,31.97904617792219,17.0,2024-02-08,Thursday,21,Night,2398.4284633441644,Airport → West End,False
+FERRY,West End,airport,2024-01-01 21:17:00,64.0,30.16545474890217,93.0,2024-02-08,Thursday,21,Night,1930.589103929739,West End → airport,False
+TRAIN,Central,West End,2024-01-01 21:18:00,81.0,9.378122509317429,97.5,2024-02-08,Thursday,21,Night,759.6279232547117,Central → West End,False
+TRAM,West End,Central,2024-01-01 21:19:00,51.0,35.40438770574288,122.0,2024-02-08,Thursday,21,Night,1805.6237729928866,West End → Central,False
+BUS,South Point,West End,2024-01-01 21:20:00,53.0,23.03101359081599,58.0,2024-02-08,Thursday,21,Night,1220.6437203132475,South Point → West End,False
+BUS,South Point,Central,2024-01-01 21:21:00,78.0,33.55414928435607,120.0,2024-02-08,Thursday,21,Night,2617.2236441797736,South Point → Central,False
+FERRY,Airport,Central,2024-01-01 21:22:00,91.0,41.94967044862246,122.0,2024-02-08,Thursday,21,Night,3817.420010824644,Airport → Central,False
+BUS,Downtown,North Station,2024-01-01 21:23:00,82.0,8.901557214557696,8.0,2024-02-08,Thursday,21,Night,729.9276915937311,Downtown → North Station,False
+TRAIN,Downtown,Airport,2024-01-01 21:24:00,92.0,1.447670965843415,79.0,2024-02-08,Thursday,21,Night,133.18572885759417,Downtown → Airport,False
+FERRY,Airport,South Point,2024-01-01 21:25:00,48.0,39.06557802659145,53.0,2024-02-08,Thursday,21,Night,1875.1477452763897,Airport → South Point,False
+BUS,South Point,West End,2024-01-01 21:26:00,47.0,30.68002254505449,11.0,2024-02-08,Thursday,21,Night,1441.9610596175612,South Point → West End,False
+FERRY,South Point,Central,2024-01-01 21:27:00,4.0,35.13215869629502,114.0,2024-02-08,Thursday,21,Night,140.5286347851801,South Point → Central,False
+BUS,South Point,West End,2024-01-01 21:28:00,7.0,25.403856477451566,126.0,2024-02-08,Thursday,21,Night,177.82699534216096,South Point → West End,False
+BUS,West End,Airport,2024-01-01 21:29:00,35.0,40.23914127381278,15.0,2024-02-08,Thursday,21,Night,1408.3699445834472,West End → Airport,False
+BUS,South Point,South Point,2024-01-01 21:30:00,48.0,48.06554727297682,96.0,2024-02-08,Thursday,21,Night,2307.1462691028873,South Point → South Point,False
+TRAIN,North Station,Airport,2024-01-01 21:31:00,73.0,27.02878640317985,177.0,2024-02-08,Thursday,21,Night,1973.101407432129,North Station → Airport,False
+TRAIN,Central,South Point,2024-01-01 21:32:00,72.0,25.403856477451566,27.0,2024-02-08,Thursday,21,Night,1829.0776663765128,Central → South Point,False
+FERRY,South Point,Downtown,2024-01-01 21:33:00,48.0,20.39341639459114,32.0,2024-02-08,Thursday,21,Night,978.8839869403746,South Point → Downtown,False
+BUS,Airport,South Point,2024-01-01 21:34:00,81.0,8.107706620788125,115.0,2024-02-08,Thursday,21,Night,656.7242362838382,Airport → South Point,False
+BUS,Central,North Station,2024-01-01 21:35:00,81.0,28.84405802766011,61.0,2024-02-08,Thursday,21,Night,2336.368700240469,Central → North Station,False
+TRAIN,West End,Airport,2024-01-01 21:36:00,97.0,14.21211995413595,30.0,2024-02-09,Friday,21,Night,1378.5756355511871,West End → Airport,False
+BUS,Airport,Central,2024-01-01 21:37:00,96.0,46.10472185454228,157.0,2024-02-09,Friday,21,Night,4426.053298036059,Airport → Central,False
+TRAIN,Central,Downtown,2024-01-01 21:38:00,72.0,29.36794481171633,97.5,2024-02-09,Friday,21,Night,2114.492026443576,Central → Downtown,False
+BUS,Airport,North Station,2024-01-01 21:39:00,19.0,29.84558893515145,33.0,2024-02-09,Friday,21,Night,567.0661897678775,Airport → North Station,False
+FERRY,West End,West End,2024-01-01 21:40:00,63.0,18.068770713412,101.0,2024-02-09,Friday,21,Night,1138.332554944956,West End → West End,False
+BUS,North Station,Airport,2024-01-01 21:41:00,38.0,3.073472922896521,168.0,2024-02-09,Friday,21,Night,116.7919710700678,North Station → Airport,False
+BUS,West End,Central,2024-01-01 21:42:00,67.0,2.071316385962937,18.0,2024-02-09,Friday,21,Night,138.77819785951678,West End → Central,False
+TRAM,West End,South Point,2024-01-01 21:43:00,59.0,21.45508963558328,82.0,2024-02-09,Friday,21,Night,1265.8502884994136,West End → South Point,False
+TRAIN,Airport,Central,2024-01-01 21:44:00,48.0,4.685986215813274,39.0,2024-02-09,Friday,21,Night,224.92733835903715,Airport → Central,False
+BUS,Downtown,West End,2024-01-01 21:45:00,13.0,30.53892429923689,34.0,2024-02-09,Friday,21,Night,397.00601589007954,Downtown → West End,False
+BUS,South Point,Downtown,2024-01-01 21:46:00,47.0,44.10816377916304,96.0,2024-02-09,Friday,21,Night,2073.083697620663,South Point → Downtown,False
+TRAIN,South Point,Downtown,2024-01-01 21:47:00,61.0,44.20428341767675,21.0,2024-02-09,Friday,21,Night,2696.461288478282,South Point → Downtown,False
+TRAM,North Station,Airport,2024-01-01 21:48:00,31.0,33.1227478015455,162.0,2024-02-09,Friday,21,Night,1026.8051818479105,North Station → Airport,False
+FERRY,North Station,Downtown,2024-01-01 21:49:00,80.0,10.95597565791008,97.0,2024-02-09,Friday,21,Night,876.4780526328065,North Station → Downtown,False
+FERRY,South Point,Airport,2024-01-01 21:50:00,96.0,43.21834315226417,177.0,2024-02-09,Friday,21,Night,4148.96094261736,South Point → Airport,False
+TRAIN, Central ,Airport,2024-01-01 21:51:00,48.0,44.3616250480038,83.0,2024-02-09,Friday,21,Night,2129.3580023041823, Central  → Airport,False
+FERRY,South Point,Airport,2024-01-01 21:52:00,93.0,10.23435245517146,114.0,2024-02-09,Friday,21,Night,951.7947783309459,South Point → Airport,False
+TRAIN, Central ,airport,2024-01-01 21:53:00,86.0,25.403856477451566,106.0,2024-02-09,Friday,21,Night,2184.7316570608346, Central  → airport,False
+TRAIN,North Station,North Station,2024-01-01 21:54:00,43.0,25.403856477451566,110.0,2024-02-09,Friday,21,Night,1092.3658285304173,North Station → North Station,False
+FERRY,Central,Airport,2024-01-01 21:55:00,67.0,40.23069546147002,51.0,2024-02-09,Friday,21,Night,2695.4565959184915,Central → Airport,False
+FERRY,Airport,Airport,2024-01-01 21:56:00,54.0,49.86327604522833,68.0,2024-02-09,Friday,21,Night,2692.6169064423298,Airport → Airport,False
+FERRY,North Station,North Station,2024-01-01 21:57:00,10.0,1.986287263804944,170.0,2024-02-09,Friday,21,Night,19.86287263804944,North Station → North Station,False
+TRAIN,North Station,Central,2024-01-01 21:58:00,48.0,44.91961035665113,97.5,2024-02-09,Friday,21,Night,2156.141297119254,North Station → Central,False
+TRAM,West End,Airport,2024-01-01 21:59:00,64.0,31.32021141313357,91.0,2024-02-09,Friday,21,Night,2004.4935304405485,West End → Airport,False
+BUS,West End,airport,2024-01-01 22:00:00,21.0,48.68243964865865,11.0,2024-02-10,Saturday,22,Night,1022.3312326218316,West End → airport,True
+FERRY,West End,Downtown,2024-01-01 22:01:00,80.0,23.51797111755817,26.0,2024-02-10,Saturday,22,Night,1881.4376894046536,West End → Downtown,True
+TRAM,Airport,Downtown,2024-01-01 22:02:00,76.0,42.445702563283,85.0,2024-02-10,Saturday,22,Night,3225.8733948095078,Airport → Downtown,True
+BUS,West End,West End,2024-01-01 22:03:00,66.0,25.403856477451566,173.0,2024-02-10,Saturday,22,Night,1676.6545275118033,West End → West End,True
+FERRY,Downtown,West End,2024-01-01 22:04:00,41.0,17.09631297887564,78.0,2024-02-10,Saturday,22,Night,700.9488321339013,Downtown → West End,True
+TRAIN,South Point,Downtown,2024-01-01 22:05:00,24.0,3.817318618684894,97.5,2024-02-10,Saturday,22,Night,91.61564684843746,South Point → Downtown,True
+FERRY,Central,Downtown,2024-01-01 22:06:00,35.0,48.77948510721399,139.0,2024-02-10,Saturday,22,Night,1707.2819787524897,Central → Downtown,True
+FERRY,North Station,South Point,2024-01-01 22:07:00,56.0,40.94020840995591,129.0,2024-02-10,Saturday,22,Night,2292.6516709575308,North Station → South Point,True
+BUS,Downtown,North Station,2024-01-01 22:08:00,30.0,42.70109735167554,54.0,2024-02-10,Saturday,22,Night,1281.0329205502662,Downtown → North Station,True
+BUS,Central,West End,2024-01-01 22:09:00,57.0,46.92927895597776,56.0,2024-02-10,Saturday,22,Night,2674.9689004907323,Central → West End,True
+FERRY,Downtown,North Station,2024-01-01 22:10:00,94.0,4.712622562929375,165.0,2024-02-10,Saturday,22,Night,442.9865209153612,Downtown → North Station,True
+BUS,Downtown,South Point,2024-01-01 22:11:00,47.0,19.58708082941,5.0,2024-02-10,Saturday,22,Night,920.59279898227,Downtown → South Point,True
+FERRY,North Station,Downtown,2024-01-01 22:12:00,35.0,4.016227007678105,166.0,2024-02-10,Saturday,22,Night,140.56794526873367,North Station → Downtown,True
+BUS,South Point,Airport,2024-01-01 22:13:00,19.0,10.93425852672642,97.5,2024-02-10,Saturday,22,Night,207.750912007802,South Point → Airport,True
+FERRY,West End,North Station,2024-01-01 22:14:00,48.0,11.85360596336478,149.0,2024-02-10,Saturday,22,Night,568.9730862415095,West End → North Station,True
+TRAIN,Airport,Downtown,2024-01-01 22:15:00,26.0,23.72080694685515,136.0,2024-02-10,Saturday,22,Night,616.7409806182338,Airport → Downtown,True
+TRAIN,South Point,Downtown,2024-01-01 22:16:00,71.0,13.79382728895531,97.5,2024-02-10,Saturday,22,Night,979.361737515827,South Point → Downtown,True
+FERRY,Airport,Central,2024-01-01 22:17:00,30.0,5.498416287479174,8.0,2024-02-10,Saturday,22,Night,164.95248862437523,Airport → Central,True
+FERRY,North Station,North Station,2024-01-01 22:18:00,7.0,8.790808910158331,5.0,2024-02-10,Saturday,22,Night,61.535662371108316,North Station → North Station,True
+FERRY,North Station,Airport,2024-01-01 22:19:00,48.0,7.790140395828501,75.0,2024-02-10,Saturday,22,Night,373.926738999768,North Station → Airport,True
+TRAIN, Central ,North Station,2024-01-01 22:20:00,65.0,48.66730149665877,39.0,2024-02-10,Saturday,22,Night,3163.37459728282, Central  → North Station,True
+TRAM,Central,Downtown,2024-01-01 22:21:00,36.0,38.08497909246444,12.0,2024-02-10,Saturday,22,Night,1371.0592473287197,Central → Downtown,True
+TRAIN,Airport,Airport,2024-01-01 22:22:00,25.0,48.40419253084332,97.5,2024-02-10,Saturday,22,Night,1210.104813271083,Airport → Airport,True
+TRAIN,South Point,South Point,2024-01-01 22:23:00,37.0,22.26715408214147,40.0,2024-02-10,Saturday,22,Night,823.8847010392344,South Point → South Point,True
+TRAIN,South Point,Central,2024-01-01 22:24:00,1.0,14.2792398423015,97.5,2024-02-11,Sunday,22,Night,14.2792398423015,South Point → Central,True
+TRAIN,Downtown,Downtown,2024-01-01 22:25:00,15.0,25.403856477451566,47.0,2024-02-11,Sunday,22,Night,381.0578471617735,Downtown → Downtown,True
+TRAIN,Downtown,West End,2024-01-01 22:26:00,37.0,16.64956894303677,31.0,2024-02-11,Sunday,22,Night,616.0340508923605,Downtown → West End,True
+TRAIN,Downtown,West End,2024-01-01 22:27:00,13.0,15.31947699841474,36.0,2024-02-11,Sunday,22,Night,199.1532009793916,Downtown → West End,True
+FERRY,North Station,Central,2024-01-01 22:28:00,8.0,12.00904661428764,82.0,2024-02-11,Sunday,22,Night,96.07237291430113,North Station → Central,True
+FERRY,South Point,South Point,2024-01-01 22:29:00,5.0,6.91910942209965,125.0,2024-02-11,Sunday,22,Night,34.59554711049825,South Point → South Point,True
+FERRY,Airport,Downtown,2024-01-01 22:30:00,60.0,13.19492152032992,150.0,2024-02-11,Sunday,22,Night,791.6952912197952,Airport → Downtown,True
+FERRY,North Station,North Station,2024-01-01 22:31:00,73.0,18.08832754945744,160.0,2024-02-11,Sunday,22,Night,1320.447911110393,North Station → North Station,True
+BUS, Central ,Central,2024-01-01 22:32:00,1.0,33.86271330321365,161.0,2024-02-11,Sunday,22,Night,33.86271330321365, Central  → Central,True
+TRAM,Downtown,South Point,2024-01-01 22:33:00,36.0,3.596959689862853,20.0,2024-02-11,Sunday,22,Night,129.49054883506273,Downtown → South Point,True
+BUS,North Station,airport,2024-01-01 22:34:00,35.0,10.92009351343448,103.0,2024-02-11,Sunday,22,Night,382.2032729702068,North Station → airport,True
+TRAIN,North Station,West End,2024-01-01 22:35:00,48.0,40.54667019443798,51.0,2024-02-11,Sunday,22,Night,1946.240169333023,North Station → West End,True
+BUS,Central,West End,2024-01-01 22:36:00,63.0,7.772635217396653,35.0,2024-02-11,Sunday,22,Night,489.6760186959891,Central → West End,True
+FERRY,West End,North Station,2024-01-01 22:37:00,23.0,25.403856477451566,8.0,2024-02-11,Sunday,22,Night,584.288698981386,West End → North Station,True
+TRAM,South Point,Central,2024-01-01 22:38:00,9.0,43.30061663197793,169.0,2024-02-11,Sunday,22,Night,389.7055496878014,South Point → Central,True
+TRAIN,Airport,West End,2024-01-01 22:39:00,34.0,8.168802901600412,21.0,2024-02-11,Sunday,22,Night,277.739298654414,Airport → West End,True
